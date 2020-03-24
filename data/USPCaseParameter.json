@@ -1,0 +1,30 @@
+{
+    "USPCaseParameter":[
+        {
+            "id":1,
+            "CaseNo":12345,
+            "InterestObselationDate":"2015-03-20",
+            "InterestFromDate":"03.10.2018",
+            "InterestCost":25,
+            "VtSentDate":"09.01.2019",
+            "LastvtSentDate":"",
+            "CloseDate":"",
+            "InterestCalcStatus":true,
+            "IsBlockedForNewClaims":true,
+            "NextDueDate":"15.12.2018",
+            "CaseDescription":"this is the description",
+            "LastPayNoteDate":"18.03.2019",
+            "ClaimObsoleteDate":"05.08.2018",
+            "ObjectionDate":"15.01.2019",
+            "IsObjected":false,
+            "BODate":"09.09.2018",
+            "DCFDate":"18.07.2018",
+            "DebtWaringDate":"08.04.2019",
+            "PlanBODate":"08.02.2019",
+            "IsCalculateObsoleteInterest":true,
+            "LastDistraintDate":"22.04.2019",
+            "LastCourtDate":"21.04.2019",
+            "UserName":"UNICORNBWA"
+        }
+    ]
+}

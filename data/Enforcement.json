@@ -1,0 +1,104 @@
+{
+    "Enforcement": [
+        {
+            "id": 1,
+            "EnforcementType": "No assets to enforce",
+            "FaceValue": 80,
+            "ValuationAmount": 58,
+            "Comment": "Solarbreeze"
+        },
+        {
+            "id": 2,
+            "EnforcementType": "Certificate or debt",
+            "FaceValue": 50,
+            "ValuationAmount": 76,
+            "Comment": "Fintone"
+        },
+        {
+            "id": 3,
+            "EnforcementType": "Mortgate in real estate",
+            "FaceValue": 11,
+            "ValuationAmount": 11,
+            "Comment": "Holdlamis"
+        },
+        {
+            "id": 4,
+            "EnforcementType": "Distraint in real estate",
+            "FaceValue": 71,
+            "ValuationAmount": 71,
+            "Comment": "Temp"
+        },
+        {
+            "id": 5,
+            "EnforcementType": "Legal Mortage",
+            "FaceValue": 22,
+            "ValuationAmount": 94,
+            "Comment": "Tin"
+        },
+        {
+            "id": 6,
+            "EnforcementType": "Bonds in personal effects",
+            "FaceValue": 81,
+            "ValuationAmount": 27,
+            "Comment": "Flexidy"
+        },
+        {
+            "id": 7,
+            "EnforcementType": "Distraint in personal effects",
+            "FaceValue": 87,
+            "ValuationAmount": 9,
+            "Comment": "It"
+        },
+        {
+            "id": 8,
+            "EnforcementType": "Distraint in salary deduction",
+            "FaceValue": 35,
+            "ValuationAmount": 25,
+            "Comment": "Matsoft"
+        },
+        {
+            "id": 9,
+            "EnforcementType": "Legal deduction in salary",
+            "FaceValue": 85,
+            "ValuationAmount": 78,
+            "Comment": "Span"
+        },
+        {
+            "id": 10,
+            "EnforcementType": "Distraint in vehicle",
+            "FaceValue": 47,
+            "ValuationAmount": 1,
+            "Comment": "Flexidy"
+        }, {
+            "id": 11,
+            "EnforcementType": "Distraint in document of title",
+            "FaceValue": 27,
+            "ValuationAmount": 89,
+            "Comment": "Aerified"
+          }, {
+            "id": 12,
+            "EnforcementType": "Mortage in document of title",
+            "FaceValue": 93,
+            "ValuationAmount": 76,
+            "Comment": "Daltfresh"
+          }, {
+            "id": 13,
+            "EnforcementType": "Distraint in other asset",
+            "FaceValue": 63,
+            "ValuationAmount": 99,
+            "Comment": "Flowdesk"
+          }, {
+            "id": 14,
+            "EnforcementType": "Distraint in salary deduction",
+            "FaceValue": 63,
+            "ValuationAmount": 93,
+            "Comment": "Y-Solowarm"
+          }, {
+            "id": 15,
+            "EnforcementType": "Distraint in real estate",
+            "FaceValue": 78,
+            "ValuationAmount": 32,
+            "Comment": "Zamit"
+          }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "bookings": [
+        {
+            "id": 1,
+            "Name": "Fitness Pilates",
+            "Trainer": "Liam Askel",
+            "Date": "10/01/2020",
+            "Time": "3.30-5.00",
+            "BookingStatus": 1
+        },
+        {
+            "id": 2,
+            "Name": "Studio Cycling 1",
+            "Trainer": "Liam Askel",
+            "Date": "22/01/2020",
+            "Time": "3.30-7.00",
+            "BookingStatus": 2
+        },
+        {
+            "id": 3,
+            "Name": "Studio Cycling 2",
+            "Trainer": "Liam Askel",
+            "Date": "22/01/2020",
+            "Time": "3.30-7.00",
+            "BookingStatus": 3
+        },
+        {
+            "id": 4,
+            "Name": "Studio Cycling 3",
+            "Trainer": "Liam Askel",
+            "Date": "22/01/2020",
+            "Time": "3.30-7.00",
+            "BookingStatus": 4
+        }
+    ]
+}

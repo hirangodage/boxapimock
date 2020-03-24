@@ -1,0 +1,56 @@
+{
+    "articles": [
+        {
+            "Id": 1,
+            "ArticleNumber": "0001",
+            "Name": "Food pack",
+            "IsItem": true,
+            "IsAddon": true,
+            "Category":"Shop",
+            "Price": 100,
+            "AvailableUnits": 50,
+            "ReOrderLevel":10,
+            "MeasureUnit":"Unit",
+            "EmployeeDiscount": 100,
+            "VAT": 10,
+            "AvailableGyms":[
+                {
+                    "Id": 1,
+                    "Name": "Gym 1"
+                },
+                {
+                    "Id": 2,
+                    "Name": "Gym 2"
+                }
+            ],
+            "Description":"Luxury sports Edition 4 door cuope model of mercedez Benz Fully loaded Height control Airsuspension" 
+
+        },
+        {
+            "Id": 2,
+            "ArticleNumber": "0002",
+            "Name": "Fruits pack",
+            "IsItem": true,
+            "IsAddon": true,
+            "Category":"Shop",
+            "Price": 120,
+            "AvailableUnits": 50,
+            "ReOrderLevel":10,
+            "MeasureUnit":"Unit",
+            "EmployeeDiscount": 100,
+            "VAT": 10,
+            "AvailableGyms":[
+                {
+                    "Id": 1,
+                    "Name": "Gym 1"
+                },
+                {
+                    "Id": 2,
+                    "Name": "Gym 2"
+                }
+            ],
+            "Description":"Luxury sports Edition 4 door cuope model of mercedez Benz Fully loaded Height control Airsuspension" 
+
+        }
+    ]
+}

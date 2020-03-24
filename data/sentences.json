@@ -1,0 +1,704 @@
+{
+    "sentences": [
+        {
+            "id": 1,
+            "SentenceDate": "12/31/2018",
+            "SentenceName": "Overanxious disorder",
+            "SentenceInterest": "12308.25",
+            "SentenceMainAmount": "42566.92"
+        },
+        {
+            "id": 2,
+            "SentenceDate": "5/3/2019",
+            "SentenceName": "Burn NOS forearm",
+            "SentenceInterest": "14219.80",
+            "SentenceMainAmount": "36136.66"
+        },
+        {
+            "id": 3,
+            "SentenceDate": "7/28/2018",
+            "SentenceName": "Epil par cont w intr epi",
+            "SentenceInterest": "14641.99",
+            "SentenceMainAmount": "44872.19"
+        },
+        {
+            "id": 4,
+            "SentenceDate": "4/30/2019",
+            "SentenceName": "Adv eff measles vaccine",
+            "SentenceInterest": "13777.38",
+            "SentenceMainAmount": "44837.05"
+        },
+        {
+            "id": 5,
+            "SentenceDate": "6/1/2019",
+            "SentenceName": "Monoarthrit NOS-oth site",
+            "SentenceInterest": "12199.36",
+            "SentenceMainAmount": "41001.18"
+        },
+        {
+            "id": 6,
+            "SentenceDate": "12/18/2018",
+            "SentenceName": "Reverse articulation",
+            "SentenceInterest": "14565.06",
+            "SentenceMainAmount": "40274.98"
+        },
+        {
+            "id": 7,
+            "SentenceDate": "12/21/2018",
+            "SentenceName": "Anomalies of inner ear",
+            "SentenceInterest": "13477.72",
+            "SentenceMainAmount": "48879.23"
+        },
+        {
+            "id": 8,
+            "SentenceDate": "10/22/2018",
+            "SentenceName": "Matern hypoten-del w p/p",
+            "SentenceInterest": "13457.08",
+            "SentenceMainAmount": "36062.23"
+        },
+        {
+            "id": 9,
+            "SentenceDate": "12/18/2018",
+            "SentenceName": "Htlv-ii infectn oth dis",
+            "SentenceInterest": "14491.12",
+            "SentenceMainAmount": "43265.22"
+        },
+        {
+            "id": 10,
+            "SentenceDate": "4/3/2019",
+            "SentenceName": "Malignant neoplasm ileum",
+            "SentenceInterest": "14369.18",
+            "SentenceMainAmount": "43483.68"
+        },
+        {
+            "id": 11,
+            "SentenceDate": "12/4/2018",
+            "SentenceName": "Endodontic overfill",
+            "SentenceInterest": "12574.35",
+            "SentenceMainAmount": "44747.94"
+        },
+        {
+            "id": 12,
+            "SentenceDate": "5/29/2019",
+            "SentenceName": "Pyelonephritis NOS",
+            "SentenceInterest": "14566.46",
+            "SentenceMainAmount": "44450.62"
+        },
+        {
+            "id": 13,
+            "SentenceDate": "12/18/2018",
+            "SentenceName": "Mal neo breast up-inner",
+            "SentenceInterest": "13752.63",
+            "SentenceMainAmount": "37829.03"
+        },
+        {
+            "id": 14,
+            "SentenceDate": "9/2/2018",
+            "SentenceName": "Int inf e coli entrnvsv",
+            "SentenceInterest": "14170.87",
+            "SentenceMainAmount": "38106.73"
+        },
+        {
+            "id": 15,
+            "SentenceDate": "4/28/2019",
+            "SentenceName": "Barrett's esophagus",
+            "SentenceInterest": "12942.71",
+            "SentenceMainAmount": "40868.22"
+        },
+        {
+            "id": 16,
+            "SentenceDate": "2/28/2019",
+            "SentenceName": "Hb-SS disease w/o crisis",
+            "SentenceInterest": "13187.92",
+            "SentenceMainAmount": "48263.54"
+        },
+        {
+            "id": 17,
+            "SentenceDate": "2/4/2019",
+            "SentenceName": "Gen cnv epil w/o intr ep",
+            "SentenceInterest": "12802.51",
+            "SentenceMainAmount": "36114.76"
+        },
+        {
+            "id": 18,
+            "SentenceDate": "10/22/2018",
+            "SentenceName": "Uterus injury-open",
+            "SentenceInterest": "13920.59",
+            "SentenceMainAmount": "35021.90"
+        },
+        {
+            "id": 19,
+            "SentenceDate": "1/29/2019",
+            "SentenceName": "Long-term use of insulin",
+            "SentenceInterest": "13523.94",
+            "SentenceMainAmount": "40565.08"
+        },
+        {
+            "id": 20,
+            "SentenceDate": "4/25/2019",
+            "SentenceName": "Neonat myasthenia gravis",
+            "SentenceInterest": "13718.36",
+            "SentenceMainAmount": "41548.32"
+        },
+        {
+            "id": 21,
+            "SentenceDate": "12/13/2018",
+            "SentenceName": "Fall on level NEC/NOS",
+            "SentenceInterest": "12191.30",
+            "SentenceMainAmount": "42101.55"
+        },
+        {
+            "id": 22,
+            "SentenceDate": "12/2/2018",
+            "SentenceName": "T1-t6 fx-op/cord inj NEC",
+            "SentenceInterest": "14062.21",
+            "SentenceMainAmount": "49078.76"
+        },
+        {
+            "id": 23,
+            "SentenceDate": "2/6/2019",
+            "SentenceName": "Face/brow present-deliv",
+            "SentenceInterest": "12317.32",
+            "SentenceMainAmount": "42807.99"
+        },
+        {
+            "id": 24,
+            "SentenceDate": "10/24/2018",
+            "SentenceName": "Quad gest 2+ monochorion",
+            "SentenceInterest": "13647.25",
+            "SentenceMainAmount": "46886.64"
+        },
+        {
+            "id": 25,
+            "SentenceDate": "11/26/2018",
+            "SentenceName": "Fx scapula NOS-closed",
+            "SentenceInterest": "13060.90",
+            "SentenceMainAmount": "42320.37"
+        },
+        {
+            "id": 26,
+            "SentenceDate": "7/8/2018",
+            "SentenceName": "Open wound arm mult/NOS",
+            "SentenceInterest": "12752.79",
+            "SentenceMainAmount": "45836.58"
+        },
+        {
+            "id": 27,
+            "SentenceDate": "10/15/2018",
+            "SentenceName": "Pois-quinoline/hydroxyqu",
+            "SentenceInterest": "13590.14",
+            "SentenceMainAmount": "40036.49"
+        },
+        {
+            "id": 28,
+            "SentenceDate": "6/12/2018",
+            "SentenceName": "Malig carcinoid stomach",
+            "SentenceInterest": "12037.87",
+            "SentenceMainAmount": "46369.49"
+        },
+        {
+            "id": 29,
+            "SentenceDate": "3/3/2019",
+            "SentenceName": "Tox eff org lead compnd",
+            "SentenceInterest": "13522.81",
+            "SentenceMainAmount": "42815.49"
+        },
+        {
+            "id": 30,
+            "SentenceDate": "8/4/2018",
+            "SentenceName": "Fx orbital floor-open",
+            "SentenceInterest": "12792.50",
+            "SentenceMainAmount": "38356.36"
+        },
+        {
+            "id": 31,
+            "SentenceDate": "2/23/2019",
+            "SentenceName": "Ac leuk uns cl relapse",
+            "SentenceInterest": "12181.84",
+            "SentenceMainAmount": "40150.87"
+        },
+        {
+            "id": 32,
+            "SentenceDate": "4/15/2019",
+            "SentenceName": "Pelvic hematom-del w pp",
+            "SentenceInterest": "13114.85",
+            "SentenceMainAmount": "47604.90"
+        },
+        {
+            "id": 33,
+            "SentenceDate": "10/5/2018",
+            "SentenceName": "Loss control mv-mcyc psg",
+            "SentenceInterest": "14920.41",
+            "SentenceMainAmount": "45357.12"
+        },
+        {
+            "id": 34,
+            "SentenceDate": "1/5/2019",
+            "SentenceName": "Variola major",
+            "SentenceInterest": "12794.52",
+            "SentenceMainAmount": "40920.28"
+        },
+        {
+            "id": 35,
+            "SentenceDate": "8/3/2018",
+            "SentenceName": "Purine/pyrimid dis NEC",
+            "SentenceInterest": "13646.14",
+            "SentenceMainAmount": "47602.79"
+        },
+        {
+            "id": 36,
+            "SentenceDate": "4/24/2019",
+            "SentenceName": "Tox eff org lead compnd",
+            "SentenceInterest": "12819.89",
+            "SentenceMainAmount": "35362.67"
+        },
+        {
+            "id": 37,
+            "SentenceDate": "4/17/2019",
+            "SentenceName": "Saddle embol pulmon art",
+            "SentenceInterest": "12112.16",
+            "SentenceMainAmount": "48225.99"
+        },
+        {
+            "id": 38,
+            "SentenceDate": "4/30/2019",
+            "SentenceName": "Emotional dis child NOS",
+            "SentenceInterest": "12757.77",
+            "SentenceMainAmount": "49349.62"
+        },
+        {
+            "id": 39,
+            "SentenceDate": "3/31/2019",
+            "SentenceName": "Spond compr lumb sp cord",
+            "SentenceInterest": "14838.94",
+            "SentenceMainAmount": "44162.05"
+        },
+        {
+            "id": 40,
+            "SentenceDate": "10/29/2018",
+            "SentenceName": "Med popliteal nerve les",
+            "SentenceInterest": "13537.52",
+            "SentenceMainAmount": "40195.23"
+        },
+        {
+            "id": 41,
+            "SentenceDate": "7/15/2018",
+            "SentenceName": "Chr uterine subinvolutn",
+            "SentenceInterest": "12079.40",
+            "SentenceMainAmount": "40801.37"
+        },
+        {
+            "id": 42,
+            "SentenceDate": "2/16/2019",
+            "SentenceName": "Mathematics disorder",
+            "SentenceInterest": "12811.30",
+            "SentenceMainAmount": "48155.23"
+        },
+        {
+            "id": 43,
+            "SentenceDate": "6/29/2018",
+            "SentenceName": "Amputat leg, bilat-compl",
+            "SentenceInterest": "14103.19",
+            "SentenceMainAmount": "35277.60"
+        },
+        {
+            "id": 44,
+            "SentenceDate": "10/1/2018",
+            "SentenceName": "Fracture, cause NOS",
+            "SentenceInterest": "12931.25",
+            "SentenceMainAmount": "35982.60"
+        },
+        {
+            "id": 45,
+            "SentenceDate": "7/23/2018",
+            "SentenceName": "Fx phalanx, hand NOS-cl",
+            "SentenceInterest": "14383.33",
+            "SentenceMainAmount": "40985.70"
+        },
+        {
+            "id": 46,
+            "SentenceDate": "8/17/2018",
+            "SentenceName": "Trachea & bronch dis NEC",
+            "SentenceInterest": "14705.04",
+            "SentenceMainAmount": "44852.29"
+        },
+        {
+            "id": 47,
+            "SentenceDate": "11/14/2018",
+            "SentenceName": "Sprain infraspinatus",
+            "SentenceInterest": "13782.57",
+            "SentenceMainAmount": "49395.43"
+        },
+        {
+            "id": 48,
+            "SentenceDate": "8/28/2018",
+            "SentenceName": "Chylocele, tunic vaginal",
+            "SentenceInterest": "14360.05",
+            "SentenceMainAmount": "37262.36"
+        },
+        {
+            "id": 49,
+            "SentenceDate": "2/14/2019",
+            "SentenceName": "Blister forearm",
+            "SentenceInterest": "12989.43",
+            "SentenceMainAmount": "43621.19"
+        },
+        {
+            "id": 50,
+            "SentenceDate": "5/7/2019",
+            "SentenceName": "H. influenae septicemia",
+            "SentenceInterest": "13492.27",
+            "SentenceMainAmount": "43350.51"
+        },
+        {
+            "id": 51,
+            "SentenceDate": "10/15/2018",
+            "SentenceName": "Birth trauma NEC",
+            "SentenceInterest": "12939.75",
+            "SentenceMainAmount": "43558.54"
+        },
+        {
+            "id": 52,
+            "SentenceDate": "3/31/2019",
+            "SentenceName": "Old myocardial infarct",
+            "SentenceInterest": "14301.81",
+            "SentenceMainAmount": "48793.31"
+        },
+        {
+            "id": 53,
+            "SentenceDate": "4/23/2019",
+            "SentenceName": "Spina bifida-lumbar",
+            "SentenceInterest": "12803.15",
+            "SentenceMainAmount": "41121.13"
+        },
+        {
+            "id": 54,
+            "SentenceDate": "11/27/2018",
+            "SentenceName": "Erythem nodos tb-no exam",
+            "SentenceInterest": "13756.59",
+            "SentenceMainAmount": "41941.41"
+        },
+        {
+            "id": 55,
+            "SentenceDate": "6/17/2018",
+            "SentenceName": "Ovarian hyperfunc NEC",
+            "SentenceInterest": "14171.88",
+            "SentenceMainAmount": "46549.91"
+        },
+        {
+            "id": 56,
+            "SentenceDate": "11/15/2018",
+            "SentenceName": "Misplaced endotrach tube",
+            "SentenceInterest": "13739.39",
+            "SentenceMainAmount": "43138.30"
+        },
+        {
+            "id": 57,
+            "SentenceDate": "11/19/2018",
+            "SentenceName": "Nonsp positive cult NEC",
+            "SentenceInterest": "14065.77",
+            "SentenceMainAmount": "45153.14"
+        },
+        {
+            "id": 58,
+            "SentenceDate": "8/13/2018",
+            "SentenceName": "Acc poisn-local anesthet",
+            "SentenceInterest": "13985.04",
+            "SentenceMainAmount": "39699.90"
+        },
+        {
+            "id": 59,
+            "SentenceDate": "12/17/2018",
+            "SentenceName": "Hx of malignancy NEC",
+            "SentenceInterest": "12996.77",
+            "SentenceMainAmount": "48505.34"
+        },
+        {
+            "id": 60,
+            "SentenceDate": "8/13/2018",
+            "SentenceName": "Cellulocutaneous plague",
+            "SentenceInterest": "12656.81",
+            "SentenceMainAmount": "47401.87"
+        },
+        {
+            "id": 61,
+            "SentenceDate": "5/1/2019",
+            "SentenceName": "Cachexia",
+            "SentenceInterest": "13374.33",
+            "SentenceMainAmount": "44479.00"
+        },
+        {
+            "id": 62,
+            "SentenceDate": "1/14/2019",
+            "SentenceName": "Opn skl/oth fx-deep coma",
+            "SentenceInterest": "14382.05",
+            "SentenceMainAmount": "42413.30"
+        },
+        {
+            "id": 63,
+            "SentenceDate": "9/8/2018",
+            "SentenceName": "Deep 3 deg burn elbow",
+            "SentenceInterest": "14339.77",
+            "SentenceMainAmount": "47440.01"
+        },
+        {
+            "id": 64,
+            "SentenceDate": "3/19/2019",
+            "SentenceName": "Ab NOS w compl NEC-comp",
+            "SentenceInterest": "13713.74",
+            "SentenceMainAmount": "42241.70"
+        },
+        {
+            "id": 65,
+            "SentenceDate": "3/5/2019",
+            "SentenceName": "Cyanotic attack, newborn",
+            "SentenceInterest": "14252.04",
+            "SentenceMainAmount": "46083.71"
+        },
+        {
+            "id": 66,
+            "SentenceDate": "9/27/2018",
+            "SentenceName": "Ext hemrrhoid w comp NEC",
+            "SentenceInterest": "12194.45",
+            "SentenceMainAmount": "46583.44"
+        },
+        {
+            "id": 67,
+            "SentenceDate": "9/6/2018",
+            "SentenceName": "Toxic eff nitrogen oxide",
+            "SentenceInterest": "14313.65",
+            "SentenceMainAmount": "47656.50"
+        },
+        {
+            "id": 68,
+            "SentenceDate": "3/8/2019",
+            "SentenceName": "TB of bladder-exam unkn",
+            "SentenceInterest": "13351.08",
+            "SentenceMainAmount": "41576.52"
+        },
+        {
+            "id": 69,
+            "SentenceDate": "10/5/2018",
+            "SentenceName": "Opn skl/oth fx-prol coma",
+            "SentenceInterest": "14126.19",
+            "SentenceMainAmount": "41886.91"
+        },
+        {
+            "id": 70,
+            "SentenceDate": "2/16/2019",
+            "SentenceName": "Sensorneur hear loss NOS",
+            "SentenceInterest": "14467.18",
+            "SentenceMainAmount": "38336.93"
+        },
+        {
+            "id": 71,
+            "SentenceDate": "10/31/2018",
+            "SentenceName": "Part resolv traum catar",
+            "SentenceInterest": "13832.52",
+            "SentenceMainAmount": "41263.44"
+        },
+        {
+            "id": 72,
+            "SentenceDate": "12/31/2018",
+            "SentenceName": "Pois tricyclc antidepres",
+            "SentenceInterest": "13363.84",
+            "SentenceMainAmount": "37464.28"
+        },
+        {
+            "id": 73,
+            "SentenceDate": "3/21/2019",
+            "SentenceName": "Mv-oth veh coll-mcyc psg",
+            "SentenceInterest": "12845.16",
+            "SentenceMainAmount": "45866.60"
+        },
+        {
+            "id": 74,
+            "SentenceDate": "12/1/2018",
+            "SentenceName": "Open wound nasal cavity",
+            "SentenceInterest": "12627.65",
+            "SentenceMainAmount": "38681.07"
+        },
+        {
+            "id": 75,
+            "SentenceDate": "3/8/2019",
+            "SentenceName": "Unsocial aggression-mod",
+            "SentenceInterest": "13351.83",
+            "SentenceMainAmount": "43763.57"
+        },
+        {
+            "id": 76,
+            "SentenceDate": "1/25/2019",
+            "SentenceName": "Opn brain inj w/o coma",
+            "SentenceInterest": "13088.01",
+            "SentenceMainAmount": "44263.95"
+        },
+        {
+            "id": 77,
+            "SentenceDate": "8/25/2018",
+            "SentenceName": "Submucous leiomyoma",
+            "SentenceInterest": "13321.40",
+            "SentenceMainAmount": "42167.02"
+        },
+        {
+            "id": 78,
+            "SentenceDate": "5/26/2019",
+            "SentenceName": "Varicose vulva-delivered",
+            "SentenceInterest": "13100.55",
+            "SentenceMainAmount": "38621.51"
+        },
+        {
+            "id": 79,
+            "SentenceDate": "1/4/2019",
+            "SentenceName": "Drug psych disor w delus",
+            "SentenceInterest": "12716.18",
+            "SentenceMainAmount": "46298.16"
+        },
+        {
+            "id": 80,
+            "SentenceDate": "11/3/2018",
+            "SentenceName": "Lk rtctl unsp xtrndl org",
+            "SentenceInterest": "12809.23",
+            "SentenceMainAmount": "36652.13"
+        },
+        {
+            "id": 81,
+            "SentenceDate": "3/25/2019",
+            "SentenceName": "Adrenal disorder NEC",
+            "SentenceInterest": "13736.27",
+            "SentenceMainAmount": "44029.11"
+        },
+        {
+            "id": 82,
+            "SentenceDate": "10/17/2018",
+            "SentenceName": "Mal neo abdomin esophag",
+            "SentenceInterest": "14961.12",
+            "SentenceMainAmount": "44653.03"
+        },
+        {
+            "id": 83,
+            "SentenceDate": "3/17/2019",
+            "SentenceName": "Hy ht/kd NOS I-IV w/o hf",
+            "SentenceInterest": "12394.86",
+            "SentenceMainAmount": "42349.71"
+        },
+        {
+            "id": 84,
+            "SentenceDate": "5/22/2019",
+            "SentenceName": "TB lung infiltr-cult dx",
+            "SentenceInterest": "12727.60",
+            "SentenceMainAmount": "49413.70"
+        },
+        {
+            "id": 85,
+            "SentenceDate": "11/11/2018",
+            "SentenceName": "Nec enterocoltis NB NOS",
+            "SentenceInterest": "13385.24",
+            "SentenceMainAmount": "44648.59"
+        },
+        {
+            "id": 86,
+            "SentenceDate": "6/19/2018",
+            "SentenceName": "Schizophr dis resid-chr",
+            "SentenceInterest": "12189.52",
+            "SentenceMainAmount": "43860.58"
+        },
+        {
+            "id": 87,
+            "SentenceDate": "3/3/2019",
+            "SentenceName": "Fet damg d/t dis-antepar",
+            "SentenceInterest": "14516.49",
+            "SentenceMainAmount": "40997.95"
+        },
+        {
+            "id": 88,
+            "SentenceDate": "1/29/2019",
+            "SentenceName": "Social conduct dis-sev",
+            "SentenceInterest": "13192.42",
+            "SentenceMainAmount": "43263.67"
+        },
+        {
+            "id": 89,
+            "SentenceDate": "7/28/2018",
+            "SentenceName": "Asphyxiation/strangulat",
+            "SentenceInterest": "12329.07",
+            "SentenceMainAmount": "42449.23"
+        },
+        {
+            "id": 90,
+            "SentenceDate": "8/31/2018",
+            "SentenceName": "Chr duoden ulc perf-obst",
+            "SentenceInterest": "14291.76",
+            "SentenceMainAmount": "35333.67"
+        },
+        {
+            "id": 91,
+            "SentenceDate": "9/28/2018",
+            "SentenceName": "Encephalopathy NOS",
+            "SentenceInterest": "13261.26",
+            "SentenceMainAmount": "46630.41"
+        },
+        {
+            "id": 92,
+            "SentenceDate": "11/23/2018",
+            "SentenceName": "Cl skull base fx-concuss",
+            "SentenceInterest": "14151.50",
+            "SentenceMainAmount": "39663.27"
+        },
+        {
+            "id": 93,
+            "SentenceDate": "12/22/2018",
+            "SentenceName": "Periph station pterygium",
+            "SentenceInterest": "14524.47",
+            "SentenceMainAmount": "45788.49"
+        },
+        {
+            "id": 94,
+            "SentenceDate": "12/19/2018",
+            "SentenceName": "Dis thyrocalciton secret",
+            "SentenceInterest": "12466.04",
+            "SentenceMainAmount": "46775.67"
+        },
+        {
+            "id": 95,
+            "SentenceDate": "12/4/2018",
+            "SentenceName": "Conjunctiva vasc anomaly",
+            "SentenceInterest": "14469.10",
+            "SentenceMainAmount": "43082.32"
+        },
+        {
+            "id": 96,
+            "SentenceDate": "7/7/2018",
+            "SentenceName": "Crushing injury buttock",
+            "SentenceInterest": "12135.84",
+            "SentenceMainAmount": "44019.33"
+        },
+        {
+            "id": 97,
+            "SentenceDate": "6/3/2019",
+            "SentenceName": "Person consult for anoth",
+            "SentenceInterest": "13683.29",
+            "SentenceMainAmount": "48620.92"
+        },
+        {
+            "id": 98,
+            "SentenceDate": "1/25/2019",
+            "SentenceName": "Cns TB NOS-exam unkn",
+            "SentenceInterest": "12941.94",
+            "SentenceMainAmount": "48619.40"
+        },
+        {
+            "id": 99,
+            "SentenceDate": "8/20/2018",
+            "SentenceName": "Tear film insuffic NOS",
+            "SentenceInterest": "13778.08",
+            "SentenceMainAmount": "48046.26"
+        },
+        {
+            "id": 100,
+            "SentenceDate": "5/30/2019",
+            "SentenceName": "Corns and callosities",
+            "SentenceInterest": "12050.17",
+            "SentenceMainAmount": "42654.17"
+        }
+    ]
+}

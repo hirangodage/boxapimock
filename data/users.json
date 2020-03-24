@@ -1,0 +1,65 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Janith",
+      "lastName": "Widarshana",
+      "email": "janith@gmail.com",
+      "username": "janith@gmail.com",
+      "userRole": "TL_USER",
+      "authRedirectPath": "article-registration",
+      "userFeatures": [
+        {
+          "name": "followup",
+          "authList": [
+            {
+              "name": "followupHome",
+              "permission": "Read"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "firstName": "Waasala",
+      "lastName": "Darshana",
+      "email": "waasala@gmail.com",
+      "username": "waasala@gmail.com",
+      "userRole": "BOX_USER",
+      "authRedirectPath": "followup",
+      "userFeatures": [
+        {
+          "name": "followup",
+          "authList": [
+            {
+              "name": "followupHome",
+              "permission": "Read"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "firstName": "Lakmal",
+      "lastName": "Kankanamge",
+      "email": "lakmal@gmail.com",
+      "username": "lakmal@gmail.com"
+    },
+    {
+      "id": 4,
+      "firstName": "Ishan",
+      "lastName": "Udyoga",
+      "email": "ishan@gmail.com",
+      "username": "ishan@gmail.com"
+    },
+    {
+      "id": 5,
+      "firstName": "Nuwan",
+      "lastName": "Sanjeewa",
+      "email": "nuwan@gmail.com",
+      "username": "nuwan@gmail.com"
+    }
+  ]
+}

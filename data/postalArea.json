@@ -1,0 +1,59 @@
+{
+    "postalArea":[
+        {
+            "id":1,
+            "PostalCode": "1011",
+            "PostalPlace":"OSLO",
+            "Municipality" :{
+                "id":21,
+                "Code": "0419",
+                "Name": "OSLO"
+            },
+            "CityAreaNo":""
+        },
+        {
+            "id":2,
+            "PostalCode": "0121",
+            "PostalPlace":"OSLO",
+            "Municipality" :{
+                "id":14,
+                "Code": "1519",
+                "Name": "OSLO"
+            },
+            "CityAreaNo":""
+        },
+        {
+            "id":3,
+            "PostalCode": "1211",
+            "PostalPlace":"SKARNES",
+            "Municipality" :{
+                "id":24,
+                "Code": "0301",
+                "Name": "SKARNES"
+            },
+            "CityAreaNo":""
+        },
+        {
+            "id":4,
+            "PostalCode": "1392",
+            "PostalPlace":"VETTRE",
+            "Municipality" :{
+                "id":31,
+                "Code": "0220",
+                "Name": "VETTRE"
+            },
+            "CityAreaNo":""
+        },
+        {
+            "id":5,
+            "PostalCode": "6037",
+            "PostalPlace":"EIDSNES",
+            "Municipality" :{
+                "id":44,
+                "Code": "1531",
+                "Name": "SULA"
+            },
+            "CityAreaNo":""
+        }
+    ]
+}

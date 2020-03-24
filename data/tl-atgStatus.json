@@ -1,0 +1,16 @@
+{
+    "atgStatus": [
+        {
+            "id": 1,
+            "Kid": 258999,
+            "Gyms": 5,
+            "atgStatus": 1
+        },
+        {
+            "id": 2,
+            "Kid": 258233,
+            "Gyms": 1,
+            "atgStatus": 2
+        }
+    ]
+}

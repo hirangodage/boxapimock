@@ -1,0 +1,51 @@
+{
+    "debtor": [
+        {
+            "id":1,
+            "FirstName": "first name1",
+            "LastName": "first name2",
+            "BirthDate": "12.05.1995",
+            "HomePhoneNumber": "",
+            "WorkfPhoneNumber": "",
+            "MobileNumber": "0777888555",
+            "Email": "testing@test.com",
+            "Skype": "",
+            "Msn": "",
+            "SmsNumber": "",
+            "PostalCode": "",
+            "City": "",
+            "MunicipalityCode": "",
+            "MunicipalityName": "",
+            "PostalAddress1": "",
+            "PostalAddress2": "",
+            "PostalAddress3": "",
+            "DebtorCategory": 1
+        },
+        {
+            "id":2,
+            "FirstName": "first name2",
+            "LastName": "last name2",
+            "BirthDate": "24.05.1995",
+            "HomePhoneNumber": "",
+            "WorkfPhoneNumber": "",
+            "MobileNumber": "0777888555",
+            "Email": "testing2@test.com",
+            "Skype": "",
+            "Msn": "",
+            "SmsNumber": "",
+            "PostalCode": "",
+            "City": "",
+            "MunicipalityCode": "",
+            "MunicipalityName": "",
+            "PostalAddress1": "",
+            "PostalAddress2": "",
+            "PostalAddress3": "",
+            "DebtorCategory": 1
+        }
+    ],
+    "DebtorContactCategory" : [
+        { "id":1,"Id": 1, "Name": "first category" },
+        { "id":2,"Id": 2, "Name": "second category" },
+        { "id":3,"Id": 3, "Name": "third category" }
+    ]
+}

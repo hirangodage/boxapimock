@@ -1,0 +1,33 @@
+{
+    "accessProfiles": [
+        {
+            "Id":1,
+            "AccessProfileNo": "11222",
+            "AccessProfileName": "acc 1",
+            "Dates":[
+                {
+                    "Id":1,
+                    "Date":"Monday",
+                    "StartTime":"11.25",
+                    "EndTime":"12.25"
+                },
+                {
+                    "Id":1,
+                    "Date":"Tuesday",
+                    "StartTime":"11.25",
+                    "EndTime":"12.25"
+                }
+            ],
+            "AvailableGyms": [
+                {
+                    "Id": 1,
+                    "Name": "Sat elixia"
+                },
+                {
+                    "Id": 2,
+                    "Name": "Orica"
+                }
+            ]
+        }
+    ]
+}

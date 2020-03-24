@@ -1,0 +1,1004 @@
+{
+    "activities": [
+        {
+            "Id": 1,
+            "Code": 97058,
+            "DisplayName": "Kiehn-Conroy",
+            "Name": "Potassium Chloride",
+            "Type": "Routine",
+            "ShortcutCode": "MT",
+            "Description": "Ocular thermography",
+            "ActivityGroup": "System"
+        },
+        {
+            "Id": 2,
+            "Code": 59317,
+            "DisplayName": "Hintz-Treutel",
+            "Name": "Butalbital, Aspirin, and Caffeine",
+            "Type": "Routine",
+            "ShortcutCode": "PT",
+            "Description": "Reimplant pancreatic tis",
+            "ActivityGroup": "System"
+        },
+        {
+            "Id": 3,
+            "Code": 62605,
+            "DisplayName": "Powlowski Group",
+            "Name": "Helium Oxygen Mix 80/20",
+            "Type": "Message",
+            "ShortcutCode": "RU",
+            "Description": "Toxicology-peritoneum",
+            "ActivityGroup": "Legal Collection"
+        },
+        {
+            "Id": 4,
+            "Code": 98314,
+            "DisplayName": "Auer, Conroy and Cremin",
+            "Name": "COARTEM",
+            "Type": "Routine",
+            "ShortcutCode": "RU",
+            "Description": "Irrigation of nasal pass",
+            "ActivityGroup": "Collection"
+        },
+        {
+            "Id": 5,
+            "Code": 95468,
+            "DisplayName": "Maggio and Sons",
+            "Name": "Ketorolac Tromethamine",
+            "Type": "Routine",
+            "ShortcutCode": "ID",
+            "Description": "Lap remove ovaries/tubes",
+            "ActivityGroup": "Collection"
+        },
+        {
+            "Id": 6,
+            "Code": 6978,
+            "DisplayName": "Gleichner-Fisher",
+            "Name": "Meprobamate",
+            "Type": "Message",
+            "ShortcutCode": "YT",
+            "Description": "Closed intra-abd mass bx",
+            "ActivityGroup": "IVR"
+        },
+        {
+            "Id": 7,
+            "Code": 98191,
+            "DisplayName": "Pacocha-Parisian",
+            "Name": "venlafaxine hydrochloride",
+            "Type": "Routine",
+            "ShortcutCode": "BG",
+            "Description": "Local lg bowel perfusion",
+            "ActivityGroup": "IVR"
+        },
+        {
+            "Id": 8,
+            "Code": 99749,
+            "DisplayName": "Smith-Lesch",
+            "Name": "Levsin",
+            "Type": "Routine",
+            "ShortcutCode": "RU",
+            "Description": "Lid recons-part thic NEC",
+            "ActivityGroup": "Legal Collection"
+        },
+        {
+            "Id": 9,
+            "Code": 96086,
+            "DisplayName": "Treutel-Fritsch",
+            "Name": "supernatural airbrushed canvas broad spectrum spf 15 sunscreen",
+            "Type": "Routine",
+            "ShortcutCode": "UA",
+            "Description": "Shoulder synovectomy",
+            "ActivityGroup": "Legal Collection"
+        },
+        {
+            "Id": 10,
+            "Code": 30536,
+            "DisplayName": "Stroman, Bruen and Friesen",
+            "Name": "Labetalol hydrochloride",
+            "Type": "Routine",
+            "ShortcutCode": "ID",
+            "Description": "Forced limb extension",
+            "ActivityGroup": "Portal"
+        },
+        {
+            "Id": 11,
+            "Code": 68502,
+            "DisplayName": "Adams-Sanford",
+            "Name": "Saltbush",
+            "Type": "Code",
+            "ShortcutCode": "FR",
+            "Description": "Therapeut distent bladd",
+            "ActivityGroup": "Collection"
+        },
+        {
+            "Id": 12,
+            "Code": 39564,
+            "DisplayName": "Brown, Sporer and Bradtke",
+            "Name": "SWEET CLOVER POLLEN",
+            "Type": "Routine",
+            "ShortcutCode": "AL",
+            "Description": "Cardiotomy",
+            "ActivityGroup": "IVR"
+        },
+        {
+            "Id": 13,
+            "Code": 53473,
+            "DisplayName": "Koelpin Inc",
+            "Name": "CounterAct",
+            "Type": "Routine",
+            "ShortcutCode": "VE",
+            "Description": "Destruc-hand jt les NEC",
+            "ActivityGroup": "System"
+        },
+        {
+            "Id": 14,
+            "Code": 14710,
+            "DisplayName": "Kertzmann-Daugherty",
+            "Name": "SHISEIDO RADIANT LIFTING FOUNDATION",
+            "Type": "Message",
+            "ShortcutCode": "CU",
+            "Description": "Int fixation-radius/ulna",
+            "ActivityGroup": "System"
+        },
+        {
+            "Id": 15,
+            "Code": 56249,
+            "DisplayName": "Kuhn Group",
+            "Name": "Penicillin V Potassium",
+            "Type": "Routine",
+            "ShortcutCode": "NG",
+            "Description": "Closed renal biopsy",
+            "ActivityGroup": "Legal Collection"
+        },
+        {
+            "Id": 16,
+            "Code": 15318,
+            "DisplayName": "Prohaska and Sons",
+            "Name": "Treatment Set TS349163",
+            "Type": "Routine",
+            "ShortcutCode": "CO",
+            "Description": "Remove ureteral ligature",
+            "ActivityGroup": "IVR"
+        },
+        {
+            "Id": 17,
+            "Code": 27077,
+            "DisplayName": "McClure, Kub and Howe",
+            "Name": "Fluoxetine",
+            "Type": "Sp",
+            "ShortcutCode": "HN",
+            "Description": "Repair of ovary NEC",
+            "ActivityGroup": "Surveilance"
+        },
+        {
+            "Id": 18,
+            "Code": 77952,
+            "DisplayName": "Goyette-Bogisich",
+            "Name": "PAIN Terminator Analgesic",
+            "Type": "Routine",
+            "ShortcutCode": "CA",
+            "Description": "Local gastr excision NEC",
+            "ActivityGroup": "Legal Collection"
+        },
+        {
+            "Id": 19,
+            "Code": 41198,
+            "DisplayName": "Carroll, Rippin and Macejkovic",
+            "Name": "CD DiorSkin Forever Compact Flawless Perfection Fusion Wear Makeup SPF 25 - 023",
+            "Type": "Message",
+            "ShortcutCode": "MX",
+            "Description": "Retinal tear diathermy",
+            "ActivityGroup": "Legal Collection"
+        },
+        {
+            "Id": 20,
+            "Code": 77015,
+            "DisplayName": "Schmitt-Hoeger",
+            "Name": "Flecainide Acetate",
+            "Type": "Routine",
+            "ShortcutCode": "SE",
+            "Description": "Other therapeutic ultsnd",
+            "ActivityGroup": "IVR"
+        },
+        {
+            "Id": 21,
+            "Code": 88070,
+            "DisplayName": "Kunde-Purdy",
+            "Name": "Smart Sense Athletes Foot",
+            "Type": "Message",
+            "ShortcutCode": "CR",
+            "Description": "Endosc inser panc stent",
+            "ActivityGroup": "Legal Collection"
+        },
+        {
+            "Id": 22,
+            "Code": 34080,
+            "DisplayName": "Buckridge, Schinner and Fahey",
+            "Name": "Cefazolin",
+            "Type": "Sp",
+            "ShortcutCode": "BA",
+            "Description": "Liver transplant NEC",
+            "ActivityGroup": "Legal Collection"
+        },
+        {
+            "Id": 23,
+            "Code": 51474,
+            "DisplayName": "Von and Sons",
+            "Name": "Dextroamphetamine",
+            "Type": "Code",
+            "ShortcutCode": "RU",
+            "Description": "Skin graft to mouth NEC",
+            "ActivityGroup": "IVR"
+        },
+        {
+            "Id": 24,
+            "Code": 17128,
+            "DisplayName": "Crona and Sons",
+            "Name": "JIANZE ALCOHOL PREP PAD MEDIUM",
+            "Type": "Message",
+            "ShortcutCode": "ID",
+            "Description": "Local excis esophag NEC",
+            "ActivityGroup": "Legal Collection"
+        },
+        {
+            "Id": 25,
+            "Code": 71518,
+            "DisplayName": "White-Brown",
+            "Name": "Desert Bambu",
+            "Type": "Routine",
+            "ShortcutCode": "CZ",
+            "Description": "Thorac esophagoesophagos",
+            "ActivityGroup": "IVR"
+        },
+        {
+            "Id": 26,
+            "Code": 89818,
+            "DisplayName": "Dickinson and Sons",
+            "Name": "BABY TINY COLD",
+            "Type": "Code",
+            "ShortcutCode": "ID",
+            "Description": "Rem epiretinal prosth",
+            "ActivityGroup": "Legal Collection"
+        },
+        {
+            "Id": 27,
+            "Code": 74934,
+            "DisplayName": "Anderson, Rogahn and Streich",
+            "Name": "Nisoldipine",
+            "Type": "Sp",
+            "ShortcutCode": "CZ",
+            "Description": "Nephrotomogram NEC",
+            "ActivityGroup": "IVR"
+        },
+        {
+            "Id": 28,
+            "Code": 15815,
+            "DisplayName": "Jerde, Schinner and Erdman",
+            "Name": "Treatment Set TS332131",
+            "Type": "Message",
+            "ShortcutCode": "UY",
+            "Description": "Removal of cement spacer",
+            "ActivityGroup": "IVR"
+        },
+        {
+            "Id": 29,
+            "Code": 88984,
+            "DisplayName": "Goodwin LLC",
+            "Name": "Americaine",
+            "Type": "Sp",
+            "ShortcutCode": "FR",
+            "Description": "Culture-peritoneum",
+            "ActivityGroup": "IVR"
+        },
+        {
+            "Id": 30,
+            "Code": 91241,
+            "DisplayName": "Pouros, Feeney and Jaskolski",
+            "Name": "Ibuprofen IB",
+            "Type": "Routine",
+            "ShortcutCode": "FR",
+            "Description": "Thermography NEC",
+            "ActivityGroup": "Default"
+        },
+        {
+            "Id": 31,
+            "Code": 29637,
+            "DisplayName": "Steuber-Trantow",
+            "Name": "Quality Choice",
+            "Type": "Routine",
+            "ShortcutCode": "KZ",
+            "Description": "Repl/rep oth tot hrt sys",
+            "ActivityGroup": "IVR"
+        },
+        {
+            "Id": 32,
+            "Code": 16177,
+            "DisplayName": "Abernathy LLC",
+            "Name": "Laura Mercier Tinted Moisturizer SPF 20 NUDE",
+            "Type": "Routine",
+            "ShortcutCode": "RU",
+            "Description": "Transplant cadaver donor",
+            "ActivityGroup": "Legal Collection"
+        },
+        {
+            "Id": 33,
+            "Code": 7992,
+            "DisplayName": "Von-Walter",
+            "Name": "Protonix",
+            "Type": "Routine",
+            "ShortcutCode": "TW",
+            "Description": "Gb-to-pancreas anastom",
+            "ActivityGroup": "Surveilance"
+        },
+        {
+            "Id": 34,
+            "Code": 24186,
+            "DisplayName": "Zemlak, Aufderhar and Parisian",
+            "Name": "PVP Prep",
+            "Type": "Code",
+            "ShortcutCode": "CN",
+            "Description": "Exploratory thoracotomy",
+            "ActivityGroup": "Surveilance"
+        },
+        {
+            "Id": 35,
+            "Code": 97006,
+            "DisplayName": "Buckridge, Auer and Strosin",
+            "Name": "GDS-Calm",
+            "Type": "Routine",
+            "ShortcutCode": "CZ",
+            "Description": "Orbitotomy NEC",
+            "ActivityGroup": "Legal Collection"
+        },
+        {
+            "Id": 36,
+            "Code": 78043,
+            "DisplayName": "Kub and Sons",
+            "Name": "meloxicam",
+            "Type": "Routine",
+            "ShortcutCode": "CZ",
+            "Description": "Bladder diagnos proc NEC",
+            "ActivityGroup": "Surveilance"
+        },
+        {
+            "Id": 37,
+            "Code": 31375,
+            "DisplayName": "Rippin, Erdman and Morissette",
+            "Name": "Acetaminophen",
+            "Type": "Message",
+            "ShortcutCode": "DO",
+            "Description": "Oth lo vision aid dispen",
+            "ActivityGroup": "Legal Collection"
+        },
+        {
+            "Id": 38,
+            "Code": 27398,
+            "DisplayName": "Borer, Bechtelar and Predovic",
+            "Name": "Carbidopa and Levodopa",
+            "Type": "Message",
+            "ShortcutCode": "RU",
+            "Description": "Arbovirus vaccinat NEC",
+            "ActivityGroup": "Legal Collection"
+        },
+        {
+            "Id": 39,
+            "Code": 9482,
+            "DisplayName": "Kihn-Hyatt",
+            "Name": "LOreal Paris Sublime Sun",
+            "Type": "Code",
+            "ShortcutCode": "ID",
+            "Description": "Loc excis esoph divertic",
+            "ActivityGroup": "Legal Collection"
+        },
+        {
+            "Id": 40,
+            "Code": 74220,
+            "DisplayName": "Dickinson-Runolfsdottir",
+            "Name": "Venlafaxine Hydrochloride",
+            "Type": "Sp",
+            "ShortcutCode": "CN",
+            "Description": "Anterior chamber inject",
+            "ActivityGroup": "Legal Collection"
+        },
+        {
+            "Id": 41,
+            "Code": 42082,
+            "DisplayName": "Ernser-Konopelski",
+            "Name": "Allegra Intensive Relief Anti-Itch",
+            "Type": "Sp",
+            "ShortcutCode": "ME",
+            "Description": "Ovarian wedge resection",
+            "ActivityGroup": "IVR"
+        },
+        {
+            "Id": 42,
+            "Code": 2874,
+            "DisplayName": "Schaden-Jenkins",
+            "Name": "Comfort-Time",
+            "Type": "Routine",
+            "ShortcutCode": "BR",
+            "Description": "Exc/dest intvrt disc NOS",
+            "ActivityGroup": "IVR"
+        },
+        {
+            "Id": 43,
+            "Code": 32404,
+            "DisplayName": "Stoltenberg, Hickle and Heller",
+            "Name": "Oxygen",
+            "Type": "Routine",
+            "ShortcutCode": "RU",
+            "Description": "Radical glossectomy",
+            "ActivityGroup": "Legal Collection"
+        },
+        {
+            "Id": 44,
+            "Code": 18249,
+            "DisplayName": "White, Gibson and Kutch",
+            "Name": "Potassium Chloride",
+            "Type": "Code",
+            "ShortcutCode": "ID",
+            "Description": "Exploratory laparotomy",
+            "ActivityGroup": "Legal Collection"
+        },
+        {
+            "Id": 45,
+            "Code": 12492,
+            "DisplayName": "Gerhold-Robel",
+            "Name": "GENUINE FIRST AID Emergency Preparedness Contains 167 PIECES HARDCASE",
+            "Type": "Sp",
+            "ShortcutCode": "UA",
+            "Description": "Intravascul imaging NEC",
+            "ActivityGroup": "IVR"
+        },
+        {
+            "Id": 46,
+            "Code": 83401,
+            "DisplayName": "Stroman-Russel",
+            "Name": "Head and Shoulders",
+            "Type": "Routine",
+            "ShortcutCode": "SE",
+            "Description": "Suture chest wall lacer",
+            "ActivityGroup": "Surveilance"
+        },
+        {
+            "Id": 47,
+            "Code": 20148,
+            "DisplayName": "Schneider-O'Kon",
+            "Name": "Mexican Tea Pollen",
+            "Type": "Routine",
+            "ShortcutCode": "MN",
+            "Description": "Total splenectomy",
+            "ActivityGroup": "Portal"
+        },
+        {
+            "Id": 48,
+            "Code": 57105,
+            "DisplayName": "Ziemann, Schaden and Konopelski",
+            "Name": "Ritalin",
+            "Type": "Sp",
+            "ShortcutCode": "PE",
+            "Description": "Esophageal repair NEC",
+            "ActivityGroup": "IVR"
+        },
+        {
+            "Id": 49,
+            "Code": 55619,
+            "DisplayName": "Schowalter-Leffler",
+            "Name": "Oxygen",
+            "Type": "Code",
+            "ShortcutCode": "ID",
+            "Description": "Micro exam-spln/marr NEC",
+            "ActivityGroup": "Legal Collection"
+        },
+        {
+            "Id": 50,
+            "Code": 86116,
+            "DisplayName": "Langosh, Kiehn and Flatley",
+            "Name": "Levetiracetam",
+            "Type": "Routine",
+            "ShortcutCode": "US",
+            "Description": "Tibia/fibula sequestrec",
+            "ActivityGroup": "Legal Collection"
+        },
+        {
+            "Id": 51,
+            "Code": 81354,
+            "DisplayName": "Collier Inc",
+            "Name": "MILLIPRED",
+            "Type": "Code",
+            "ShortcutCode": "ID",
+            "Description": "One extraoc mus recess",
+            "ActivityGroup": "Surveilance"
+        },
+        {
+            "Id": 52,
+            "Code": 75511,
+            "DisplayName": "Lindgren-Grant",
+            "Name": "Dove",
+            "Type": "Routine",
+            "ShortcutCode": "LU",
+            "Description": "Infus drotrecogin alfa",
+            "ActivityGroup": "Legal Collection"
+        },
+        {
+            "Id": 53,
+            "Code": 66247,
+            "DisplayName": "Bauch Group",
+            "Name": "Namenda",
+            "Type": "Message",
+            "ShortcutCode": "CN",
+            "Description": "Facial bone repair NEC",
+            "ActivityGroup": "IVR"
+        },
+        {
+            "Id": 54,
+            "Code": 47242,
+            "DisplayName": "Gislason-Tremblay",
+            "Name": "Clotrimazole and Betamethasone Dipropionate",
+            "Type": "Routine",
+            "ShortcutCode": "ID",
+            "Description": "Sing source radiosurgery",
+            "ActivityGroup": "Global"
+        },
+        {
+            "Id": 55,
+            "Code": 65841,
+            "DisplayName": "Parisian-Greenfelder",
+            "Name": "PediaCare Gas Relief Drops Dye Free",
+            "Type": "Code",
+            "ShortcutCode": "PT",
+            "Description": "Disarticulation of knee",
+            "ActivityGroup": "IVR"
+        },
+        {
+            "Id": 56,
+            "Code": 37025,
+            "DisplayName": "West, Cruickshank and Torp",
+            "Name": "SIMPLY RIGHT",
+            "Type": "Sp",
+            "ShortcutCode": "FI",
+            "Description": "Revise or remove pacemak",
+            "ActivityGroup": "Legal Collection"
+        },
+        {
+            "Id": 57,
+            "Code": 35050,
+            "DisplayName": "Gleichner-Williamson",
+            "Name": "Antimicrobial",
+            "Type": "Code",
+            "ShortcutCode": "DO",
+            "Description": "Therapeu erythropheresis",
+            "ActivityGroup": "IVR"
+        },
+        {
+            "Id": 58,
+            "Code": 22624,
+            "DisplayName": "Powlowski, Moen and Homenick",
+            "Name": "LBEL EFFET PARFAIT Spots Reducing Effect Foundation SPF 18 - CLAIRE 4",
+            "Type": "Message",
+            "ShortcutCode": "BR",
+            "Description": "Isotope inject/instill",
+            "ActivityGroup": "Legal Collection"
+        },
+        {
+            "Id": 59,
+            "Code": 22406,
+            "DisplayName": "Gutkowski, Sauer and Heaney",
+            "Name": "VALSARTAN",
+            "Type": "Message",
+            "ShortcutCode": "CN",
+            "Description": "Brain repair",
+            "ActivityGroup": "Legal Collection"
+        },
+        {
+            "Id": 60,
+            "Code": 68104,
+            "DisplayName": "Medhurst, Effertz and Herzog",
+            "Name": "Solu-Medrol",
+            "Type": "Routine",
+            "ShortcutCode": "AL",
+            "Description": "2ndry ocular imp insert",
+            "ActivityGroup": "Default"
+        },
+        {
+            "Id": 61,
+            "Code": 6984,
+            "DisplayName": "Daniel Group",
+            "Name": "AMARANTHUS RETROFLEXUS POLLEN",
+            "Type": "Routine",
+            "ShortcutCode": "TD",
+            "Description": "CAS w multiple datasets",
+            "ActivityGroup": "Portal"
+        },
+        {
+            "Id": 62,
+            "Code": 16798,
+            "DisplayName": "Gulgowski, Ratke and Halvorson",
+            "Name": "Butalbital, Acetaminophen, and Caffeine",
+            "Type": "Code",
+            "ShortcutCode": "CN",
+            "Description": "Open rectal biopsy",
+            "ActivityGroup": "Surveilance"
+        },
+        {
+            "Id": 63,
+            "Code": 98883,
+            "DisplayName": "Sauer and Sons",
+            "Name": "Tranexamic Acid",
+            "Type": "Routine",
+            "ShortcutCode": "CN",
+            "Description": "Soft tissue division NEC",
+            "ActivityGroup": "Portal"
+        },
+        {
+            "Id": 64,
+            "Code": 36470,
+            "DisplayName": "Klein Inc",
+            "Name": "SINUS PAIN AND CONGESTION DAYTIME",
+            "Type": "Routine",
+            "ShortcutCode": "AF",
+            "Description": "Wedge osteotomy NOS",
+            "ActivityGroup": "Global"
+        },
+        {
+            "Id": 65,
+            "Code": 10502,
+            "DisplayName": "Smitham Inc",
+            "Name": "OBAGI-C RX SYSTEM C-EXFOLIATING DAY",
+            "Type": "Message",
+            "ShortcutCode": "PT",
+            "Description": "Intest seg isolat NOS",
+            "ActivityGroup": "Surveilance"
+        },
+        {
+            "Id": 66,
+            "Code": 92136,
+            "DisplayName": "Collins-Collins",
+            "Name": "Colloidal Silver",
+            "Type": "Message",
+            "ShortcutCode": "SE",
+            "Description": "Thyrogloss duct excision",
+            "ActivityGroup": "Legal Collection"
+        },
+        {
+            "Id": 67,
+            "Code": 39864,
+            "DisplayName": "Kris, Pouros and Lang",
+            "Name": "Omeprazole",
+            "Type": "Routine",
+            "ShortcutCode": "ID",
+            "Description": "Bladder neck dilation",
+            "ActivityGroup": "Surveilance"
+        },
+        {
+            "Id": 68,
+            "Code": 90024,
+            "DisplayName": "Larson LLC",
+            "Name": "dg health cold plus flu relief",
+            "Type": "Routine",
+            "ShortcutCode": "UA",
+            "Description": "Other heart/pericard ops",
+            "ActivityGroup": "IVR"
+        },
+        {
+            "Id": 69,
+            "Code": 75860,
+            "DisplayName": "Rippin, Monahan and Blanda",
+            "Name": "Ibuprofen",
+            "Type": "Routine",
+            "ShortcutCode": "FR",
+            "Description": "Bact smear-bili/pancreas",
+            "ActivityGroup": "IVR"
+        },
+        {
+            "Id": 70,
+            "Code": 5336,
+            "DisplayName": "Harris Group",
+            "Name": "NITROGEN",
+            "Type": "Routine",
+            "ShortcutCode": "PY",
+            "Description": "Pneumoencephalogram",
+            "ActivityGroup": "IVR"
+        },
+        {
+            "Id": 71,
+            "Code": 85123,
+            "DisplayName": "Jacobi, Herman and Gleason",
+            "Name": "Hydralazine Hydrochloride",
+            "Type": "Routine",
+            "ShortcutCode": "CN",
+            "Description": "Toxicology-eye",
+            "ActivityGroup": "Legal Collection"
+        },
+        {
+            "Id": 72,
+            "Code": 17389,
+            "DisplayName": "Lueilwitz, Erdman and Pacocha",
+            "Name": "DOK",
+            "Type": "Routine",
+            "ShortcutCode": "CN",
+            "Description": "Pyelostomy",
+            "ActivityGroup": "IVR"
+        },
+        {
+            "Id": 73,
+            "Code": 30397,
+            "DisplayName": "Little-Labadie",
+            "Name": "Hawaiian Tropic",
+            "Type": "Routine",
+            "ShortcutCode": "US",
+            "Description": "Ethmoid art ligat-epist",
+            "ActivityGroup": "Surveilance"
+        },
+        {
+            "Id": 74,
+            "Code": 43777,
+            "DisplayName": "Zemlak, Gusikowski and Eichmann",
+            "Name": "Meloxicam",
+            "Type": "Routine",
+            "ShortcutCode": "TH",
+            "Description": "Periph nerve dx proc NEC",
+            "ActivityGroup": "IVR"
+        },
+        {
+            "Id": 75,
+            "Code": 67362,
+            "DisplayName": "Friesen Group",
+            "Name": "Silace",
+            "Type": "Routine",
+            "ShortcutCode": "GR",
+            "Description": "Aspiration of testes",
+            "ActivityGroup": "Legal Collection"
+        },
+        {
+            "Id": 76,
+            "Code": 11180,
+            "DisplayName": "Brown, White and Kirlin",
+            "Name": "Bethanechol Chloride",
+            "Type": "Routine",
+            "ShortcutCode": "FR",
+            "Description": "Vitreous operation NEC",
+            "ActivityGroup": "IVR"
+        },
+        {
+            "Id": 77,
+            "Code": 49609,
+            "DisplayName": "Jenkins-Kiehn",
+            "Name": "Spectracef",
+            "Type": "Sp",
+            "ShortcutCode": "PL",
+            "Description": "Low forceps operation",
+            "ActivityGroup": "IVR"
+        },
+        {
+            "Id": 78,
+            "Code": 75365,
+            "DisplayName": "Howell-Graham",
+            "Name": "BenzEFoam",
+            "Type": "Code",
+            "ShortcutCode": "ID",
+            "Description": "Aorta-iliac-femor bypass",
+            "ActivityGroup": "IVR"
+        },
+        {
+            "Id": 79,
+            "Code": 24832,
+            "DisplayName": "McCullough, Huel and Littel",
+            "Name": "Clonazepam",
+            "Type": "Message",
+            "ShortcutCode": "AR",
+            "Description": "Int inser lead in atrium",
+            "ActivityGroup": "IVR"
+        },
+        {
+            "Id": 80,
+            "Code": 10118,
+            "DisplayName": "Hirthe Inc",
+            "Name": "Azithromycin",
+            "Type": "Message",
+            "ShortcutCode": "CN",
+            "Description": "Cl red-int fix tib/fibu",
+            "ActivityGroup": "IVR"
+        },
+        {
+            "Id": 81,
+            "Code": 31315,
+            "DisplayName": "Kuhlman Inc",
+            "Name": "Neova DNA Damage Control - Active",
+            "Type": "Routine",
+            "ShortcutCode": "CN",
+            "Description": "Abd wall hern repair NEC",
+            "ActivityGroup": "Legal Collection"
+        },
+        {
+            "Id": 82,
+            "Code": 8006,
+            "DisplayName": "Dietrich, Ullrich and Ondricka",
+            "Name": "MEIJER SPF 15",
+            "Type": "Code",
+            "ShortcutCode": "PL",
+            "Description": "Psychol mental stat NOS",
+            "ActivityGroup": "IVR"
+        },
+        {
+            "Id": 83,
+            "Code": 95590,
+            "DisplayName": "Frami-Lind",
+            "Name": "Dextroamphetamine Sulfate",
+            "Type": "Routine",
+            "ShortcutCode": "AL",
+            "Description": "Destruct esophag les NEC",
+            "ActivityGroup": "IVR"
+        },
+        {
+            "Id": 84,
+            "Code": 44497,
+            "DisplayName": "Smith and Sons",
+            "Name": "MISSHA SIGNATURE DRAMATIC WHITENING PACT",
+            "Type": "Sp",
+            "ShortcutCode": "ID",
+            "Description": "Electrocardiograph monit",
+            "ActivityGroup": "IVR"
+        },
+        {
+            "Id": 85,
+            "Code": 86560,
+            "DisplayName": "Walsh and Sons",
+            "Name": "Desipramine Hydrochloride",
+            "Type": "Sp",
+            "ShortcutCode": "PT",
+            "Description": "Application of splint",
+            "ActivityGroup": "IVR"
+        },
+        {
+            "Id": 86,
+            "Code": 80970,
+            "DisplayName": "Rice-Schmeler",
+            "Name": "Aminosyn II",
+            "Type": "Code",
+            "ShortcutCode": "ET",
+            "Description": "Colostomy NOS",
+            "ActivityGroup": "Legal Collection"
+        },
+        {
+            "Id": 87,
+            "Code": 58601,
+            "DisplayName": "Kulas Inc",
+            "Name": "THE FLOWER UV INTENSE PACT",
+            "Type": "Code",
+            "ShortcutCode": "CN",
+            "Description": "Retinal tear diathermy",
+            "ActivityGroup": "Default"
+        },
+        {
+            "Id": 88,
+            "Code": 21691,
+            "DisplayName": "Heidenreich and Sons",
+            "Name": "Mineral",
+            "Type": "Routine",
+            "ShortcutCode": "EC",
+            "Description": "Repair of claw toe",
+            "ActivityGroup": "Surveilance"
+        },
+        {
+            "Id": 89,
+            "Code": 57253,
+            "DisplayName": "Lubowitz-Lueilwitz",
+            "Name": "Gillette Odor Shield",
+            "Type": "Routine",
+            "ShortcutCode": "KE",
+            "Description": "Suture of vessel NOS",
+            "ActivityGroup": "Legal Collection"
+        },
+        {
+            "Id": 90,
+            "Code": 13540,
+            "DisplayName": "Ondricka, Morissette and Gerlach",
+            "Name": "No7 Lifting and Firming Foundation Sunscreen SPF 15 Vanilla",
+            "Type": "Message",
+            "ShortcutCode": "JP",
+            "Description": "Nasal sinus transillumin",
+            "ActivityGroup": "IVR"
+        },
+        {
+            "Id": 91,
+            "Code": 80908,
+            "DisplayName": "Gleason Inc",
+            "Name": "Lice Killing",
+            "Type": "Sp",
+            "ShortcutCode": "IE",
+            "Description": "Perc ins carotid stent",
+            "ActivityGroup": "IVR"
+        },
+        {
+            "Id": 92,
+            "Code": 33885,
+            "DisplayName": "Bergnaum Group",
+            "Name": "Signature Antibacterial Foaming Hand",
+            "Type": "Sp",
+            "ShortcutCode": "CN",
+            "Description": "Therapeu plasmapheresis",
+            "ActivityGroup": "Default"
+        },
+        {
+            "Id": 93,
+            "Code": 36409,
+            "DisplayName": "Bosco-Rodriguez",
+            "Name": "ESIKA",
+            "Type": "Sp",
+            "ShortcutCode": "PL",
+            "Description": "Incis obstr bile duc NEC",
+            "ActivityGroup": "Surveilance"
+        },
+        {
+            "Id": 94,
+            "Code": 98374,
+            "DisplayName": "Blanda-Gottlieb",
+            "Name": "Manefit Beauty Planner Lavender Wrinkle Lifting Mask",
+            "Type": "Message",
+            "ShortcutCode": "CN",
+            "Description": "Tongue operation NEC",
+            "ActivityGroup": "Global"
+        },
+        {
+            "Id": 95,
+            "Code": 27452,
+            "DisplayName": "Fadel, Pagac and Carter",
+            "Name": "Zithromax",
+            "Type": "Routine",
+            "ShortcutCode": "ID",
+            "Description": "Foot joint struct divis",
+            "ActivityGroup": "Default"
+        },
+        {
+            "Id": 96,
+            "Code": 38098,
+            "DisplayName": "Goyette LLC",
+            "Name": "ZENPEP",
+            "Type": "Sp",
+            "ShortcutCode": "KZ",
+            "Description": "Opn lft hemicolectmy NEC",
+            "ActivityGroup": "IVR"
+        },
+        {
+            "Id": 97,
+            "Code": 47346,
+            "DisplayName": "Feil, Effertz and Bashirian",
+            "Name": "Good Neighbor Pharmacy Allergy Relief",
+            "Type": "Message",
+            "ShortcutCode": "PL",
+            "Description": "Lap bi indir ing hrn-grf",
+            "ActivityGroup": "Legal Collection"
+        },
+        {
+            "Id": 98,
+            "Code": 49479,
+            "DisplayName": "Hermann Group",
+            "Name": "PROVON Antimicrobial Ltn Sp with 0.3% PCMX",
+            "Type": "Message",
+            "ShortcutCode": "CN",
+            "Description": "Abd rep-diaphr hern NOS",
+            "ActivityGroup": "Legal Collection"
+        },
+        {
+            "Id": 99,
+            "Code": 51045,
+            "DisplayName": "Zulauf and Sons",
+            "Name": "Banophen",
+            "Type": "Routine",
+            "ShortcutCode": "FI",
+            "Description": "Iridotomy NEC",
+            "ActivityGroup": "Surveilance"
+        },
+        {
+            "Id": 100,
+            "Code": 8261,
+            "DisplayName": "Quitzon-Willms",
+            "Name": "PROMETHAZINE HYDROCHLORIDE",
+            "Type": "Sp",
+            "ShortcutCode": "MA",
+            "Description": "Atmos press/compos contr",
+            "ActivityGroup": "Surveilance"
+        }
+    ]
+}

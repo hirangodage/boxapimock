@@ -1,0 +1,52 @@
+{
+    "invoices": [
+        {
+            "Id": 1,
+            "CaseNo": 11222,
+            "InvoiceId": 1558,
+            "InvoiceType": "ATG",
+            "InvoicingPeriod":"16/01/2020 - 16/01/2020",
+            "OriginalAmount": 5200.00,
+            "NextDueDate": "16/01/2020",
+            "Balance":2525.28,
+            "Status":"Debt Warning",
+            "Gym":"Cross Fit"
+        },
+        {
+            "Id": 2,
+            "CaseNo": 11233,
+            "InvoiceId": 2558,
+            "InvoiceType": "ATG",
+            "InvoicingPeriod":"16/01/2020 - 16/01/2020",
+            "OriginalAmount": 5200.00,
+            "NextDueDate": "16/01/2020",
+            "Balance":2525.28,
+            "Status":"Debt Warning",
+            "Gym":"Cross Fit"
+        },
+        {
+            "Id": 3,
+            "CaseNo": 12231,
+            "InvoiceId": 3558,
+            "InvoiceType": "ATG",
+            "InvoicingPeriod":"16/01/2020 - 16/01/2020",
+            "OriginalAmount": 5200.00,
+            "NextDueDate": "16/01/2020",
+            "Balance":2525.28,
+            "Status":"Debt Warning",
+            "Gym":"Cross Fit"
+        },
+        {
+            "Id": 4,
+            "CaseNo": 12333,
+            "InvoiceId": 4558,
+            "InvoiceType": "ATG",
+            "InvoicingPeriod":"16/01/2020 - 16/01/2020",
+            "OriginalAmount": 5200.00,
+            "NextDueDate": "16/01/2020",
+            "Balance":2525.28,
+            "Status":"Debt Warning",
+            "Gym":"Cross Fit"
+        }
+    ]
+}

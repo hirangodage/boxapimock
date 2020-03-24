@@ -1,0 +1,10 @@
+{
+    "PaymentInfo": 
+        {   "Id" : 1,
+            "LastPaymentDate": "11/30/2019",
+            "LastPaymentAmount": 350.00,
+            "UnhandledExceededAmount": 50.00,
+            "ShopAccount": 40.00,
+            "PrePaid": 200.00
+        }
+}

@@ -1,0 +1,141 @@
+{
+    "template": [
+        {
+            "Id": 1,
+            "PackageNo": "Starter-1",
+            "PackageName": "Starter 1",
+            "TotalPrice": 4500.00,
+            "Description": "Lorem Ipsum is simply dummy  Lorem Ipsum is simply Lorem Ipsum is simply dummy dummy text of the printing and typesetting dustry",
+            "IsRegistrationFee": true,
+            "IsRes": true,
+            "IsFixedVisits": true,
+            "NumberOfFixVisits": 10,
+            "IsFreeMonths": true,
+            "NumberOfFreeMonths": 2,
+            "PackegeType": "fixed visits",
+            "PackageDisplayPosition": 1,
+            "Addons": [
+                {
+                    "ArticleId": 1,
+                    "ArticleNo": "",
+                    "ArticleName": "Arabic",
+                    "ArticlePrice": 100.00,
+                    "IsPriceIncludedInMonthlyFee": true
+                },
+                {
+                    "ArticleId": 2,
+                    "ArticleNo": "",
+                    "ArticleName": "Shower",
+                    "ArticlePrice": 100.00,
+                    "IsPriceIncludedInMonthlyFee": true
+                },
+                {
+                    "ArticleId": 3,
+                    "ArticleNo": "",
+                    "ArticleName": "Dumnells",
+                    "ArticlePrice": 100.00,
+                    "IsPriceIncludedInMonthlyFee": true
+                }
+            ],
+            "AvailableGyms": [
+                {
+                    "Id": 1,
+                    "Name": "Sat elixia"
+                },
+                {
+                    "Id": 2,
+                    "Name": "Orica"
+                },
+                {
+                    "Id": 3,
+                    "Name": "Power World"
+                }
+            ]
+        },
+        {
+            "Id": 2,
+            "PackageNo": "Starter-1",
+            "PackageName": "Starter 1",
+            "TotalPrice": 5500.00,
+            "Description": "Tivial Life is simply Lorem Ipsum is simply dummy dummy text of the printing and typesetting dustry",
+            "IsRegistrationFee": false,
+            "IsRes": true,
+            "IsFixedVisits": false,
+            "NumberOfFixVisits": 10,
+            "IsFreeMonths": true,
+            "NumberOfFreeMonths": 2,
+            "PackegeType": "fixed visits",
+            "PackageDisplayPosition": 1,
+            "Addons": [
+                {
+                    "ArticleId": 1,
+                    "ArticleNo": "",
+                    "ArticleName": "Arabic",
+                    "ArticlePrice": 100.00,
+                    "IsPriceIncludedInMonthlyFee": true
+                },
+                {
+                    "ArticleId": 2,
+                    "ArticleNo": "",
+                    "ArticleName": "Shower",
+                    "ArticlePrice": 100.00,
+                    "IsPriceIncludedInMonthlyFee": true
+                }
+            ],
+            "AvailableGyms": [
+                {
+                    "Id": 1,
+                    "Name": "Sat elixia"
+                },
+                {
+                    "Id": 2,
+                    "Name": "Orica"
+                }
+            ]
+        },
+        {
+            "Id": 3,
+            "PackageNo": "Starter-3",
+            "PackageName": "Starter 3",
+            "TotalPrice": 6500.00,
+            "Description": "Simply dummy  Lorem Ipsum is simply Lorem Ipsum is simply dummy dummy text of the printing and typesetting dustry",
+            "IsRegistrationFee": true,
+            "IsRes": false,
+            "IsFixedVisits": true,
+            "NumberOfFixVisits": 10,
+            "IsFreeMonths": true,
+            "NumberOfFreeMonths": 2,
+            "PackegeType": "fixed visits",
+            "PackageDisplayPosition": 1,
+            "Addons": [
+                {
+                    "ArticleId": 1,
+                    "ArticleNo": "",
+                    "ArticleName": "Arabic",
+                    "ArticlePrice": 100.00,
+                    "IsPriceIncludedInMonthlyFee": true
+                },
+                {
+                    "ArticleId": 2,
+                    "ArticleNo": "",
+                    "ArticleName": "Shower",
+                    "ArticlePrice": 100.00,
+                    "IsPriceIncludedInMonthlyFee": true
+                },
+                {
+                    "ArticleId": 3,
+                    "ArticleNo": "",
+                    "ArticleName": "Dumnells",
+                    "ArticlePrice": 100.00,
+                    "IsPriceIncludedInMonthlyFee": true
+                }
+            ],
+            "AvailableGyms": [
+                {
+                    "Id": 1,
+                    "Name": "Sat elixia"
+                }
+            ]
+        }
+    ]
+}

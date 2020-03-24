@@ -1,0 +1,49 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "regdate": "12/1/2018",
+      "regby": "System",
+      "text": "com.ezinearticles.Sonsing",
+      "texttype": "system",
+      "copiedToDebnotes": false,
+      "internal": false
+    },
+    {
+      "id": 2,
+      "regdate": "2/13/2019",
+      "regby": "System",
+      "text": "com.intel.Prodder",
+      "texttype": "system",
+      "copiedToDebnotes": true,
+      "internal": false
+    },
+    {
+      "id": 3,
+      "regdate": "12/12/2018",
+      "regby": "Osborn",
+      "text": "com.indiatimes.Sub-Ex",
+      "texttype": "user",
+      "copiedToDebnotes": true,
+      "internal": true
+    },
+    {
+      "id": 4,
+      "regdate": "7/24/2018",
+      "regby": "Ellswerth",
+      "text": "com.answers.It",
+      "texttype": "user",
+      "copiedToDebnotes": false,
+      "internal": true
+    },
+    {
+      "id": 5,
+      "regdate": "4/25/2019",
+      "regby": "Colver",
+      "text": "com.oakley.Kanlam",
+      "texttype": "user",
+      "copiedToDebnotes": false,
+      "internal": false
+    }
+  ]
+}

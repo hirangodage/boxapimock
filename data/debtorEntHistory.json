@@ -1,0 +1,64 @@
+{
+    "debtorEntHistory":[
+        {
+            "id":1,
+            "DebtorNo":1919373,
+            "FullName":"sasanka senarathne",
+            "BirthDate":"1993-03-15",
+            "PersonNo":"150393",
+            "OrginalRegDate":"2018-11-30 14:43:36.370",
+            "CreatedUser":"System",
+            "ModifiedUser":"System",
+            "Title":"Mr",
+            "RegDate":"2018-12-06 16:34:58.847"
+        },
+        {
+            "id":2,
+            "DebtorNo":1919373,
+            "FullName":"sasanka senarathne",
+            "BirthDate":"1993-03-15",
+            "PersonNo":"150393",
+            "OrginalRegDate":"2018-11-30 14:43:36.370",
+            "CreatedUser":"System",
+            "ModifiedUser":"System",
+            "Title":"Mr",
+            "RegDate":"2018-12-06 16:37:58.773"
+        },
+        {
+            "id":3,
+            "DebtorNo":1919373,
+            "FullName":"sasanka senarathne",
+            "BirthDate":"1993-03-15",
+            "PersonNo":"150393",
+            "OrginalRegDate":"2018-11-30 14:43:36.370",
+            "CreatedUser":"System",
+            "ModifiedUser":"System",
+            "Title":"Mr",
+            "RegDate":"2019-01-24 16:51:56.853"
+        },
+        {
+            "id":4,
+            "DebtorNo":1919373,
+            "FullName":"sasanka senarathne",
+            "BirthDate":"1993-03-15",
+            "PersonNo":"150393",
+            "OrginalRegDate":"2018-11-30 14:43:36.370",
+            "CreatedUser":"System",
+            "ModifiedUser":"System",
+            "Title":"Mr",
+            "RegDate":"2019-01-30 10:21:24.137"
+        },
+        {
+            "id":5,
+            "DebtorNo":1919373,
+            "FullName":"sasanka senarathne",
+            "BirthDate":"1993-03-15",
+            "PersonNo":"150393",
+            "OrginalRegDate":"2018-11-30 14:43:36.370",
+            "CreatedUser":"System",
+            "ModifiedUser":"System",
+            "Title":"Mr",
+            "RegDate":"2019-02-13 12:09:06.107"
+        }
+    ]
+}

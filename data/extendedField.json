@@ -1,0 +1,53 @@
+{
+    "extendedField":[
+        {
+            "id": 1,
+            "Name": "Austin",
+            "DisplayName": "Bradley",
+            "DataType": "String",
+            "Value": "unicorn"
+        },
+        {
+            "id": 2,
+            "Name": "Elton",
+            "DisplayName": "Yardley",
+            "DataType": "Integer",
+            "Value": "2566"
+        },
+        {
+            "id": 3,
+            "Name": "Richard",
+            "DisplayName": "Jackson",
+            "DataType": "Decimal",
+            "Value": "11368.35"
+        },
+        {
+            "id": 4,
+            "Name": "Acton",
+            "DisplayName": "Brian",
+            "DataType": "Date",
+            "Value": "06/09/2019"
+        },
+        {
+            "id": 5,
+            "Name": "Raymond",
+            "DisplayName": "Nero",
+            "DataType": "String",
+            "Value": "solution"
+        },
+        {
+            "id": 6,
+            "Name": "Gage",
+            "DisplayName": "Philip",
+            "DataType": "Date",
+            "Value": "02/25/2019"
+        },
+        {
+            "id": 7,
+            "Name": "Merrill",
+            "DisplayName": "Chadwick",
+            "DataType": "Bool",
+            "Value": "true"
+        }
+    ]
+}

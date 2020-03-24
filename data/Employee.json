@@ -1,0 +1,39 @@
+{
+    "Employee": [
+        {
+            "Id": 1,
+            "Name": "Langston",
+            "Address1": "Almo",
+            "PostalPlace": "Guantang",
+            "OrganizationNo": "490"
+        }, 
+        {
+            "Id": 2,
+            "Name": "Hertha",
+            "Address1": "Twin Pines",
+            "PostalPlace": "Langtad",
+            "OrganizationNo": "273"
+        }, 
+        {
+            "Id": 3,
+            "Name": "Richardo",
+            "Address1": "Sullivan",
+            "PostalPlace": "San José",
+            "OrganizationNo": "116"
+        }, 
+        {
+            "Id": 4,
+            "Name": "Abbi",
+            "Address1": "Old Gate",
+            "PostalPlace": "Lamalera",
+            "OrganizationNo": "6897"
+        }, 
+        {
+            "Id": 5,
+            "Name": "Dyan",
+            "Address1": "Bluestem",
+            "PostalPlace": "Norrköping",
+            "OrganizationNo": "109"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "members": [
+        {
+            "Id": 1,
+            "FirstName": "Janith",
+            "LastName": "idarshana",
+            "DOB": "1985/11/25",
+            "Gender": "MALE",
+            "SSN": "853303399",
+            "Email": "janith@unicorn.com",
+            "PhoneNumbers": [
+                {
+                    "Type": "MOBILE",
+                    "Number": "25632458"
+                },
+                {
+                    "Type": "WORK",
+                    "Number": "45687542"
+                }
+            ],
+            "Address": {
+                "Line1": "Address Line 1",
+                "Line2": "Address Line 2",
+                "Country": "NO",
+                "PostalCode": "92350"
+            },
+            "PreferredDocChannels": "EMAIL",
+            "Gurdian": {
+                "Name": "Kristian Klev"
+            }
+        }
+    ]
+}

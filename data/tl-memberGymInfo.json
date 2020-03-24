@@ -1,0 +1,26 @@
+{
+    "memberGymInfo": [
+        {
+            "id": 1,
+            "Name": "CrossFit Oslo 1",
+            "LastVisitDate": "04/11/2019",
+            "LastMonthVisits": 11,
+            "TotalVisits": 10,
+            "isHomeGym": true
+        },
+        {
+            "id": 2,
+            "Name": "CrossFit Oslo 2",
+            "LastVisitDate": "04/11/2019",
+            "LastMonthVisits": 15,
+            "TotalVisits": 10
+        },
+        {
+            "id": 3,
+            "Name": "CrossFit Oslo 3",
+            "LastVisitDate": "04/11/2019",
+            "LastMonthVisits": 11,
+            "TotalVisits": 10
+        }
+    ]
+}

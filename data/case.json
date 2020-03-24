@@ -1,0 +1,121 @@
+{
+    "caseLogs" : [
+        {
+          "key": "1",
+          "type": "text",
+          "title": "Workflow Service",
+          "desc": "Print invoice",
+          "date": "12-Sep-2018",
+          "time": "2:45PM",
+          "attachment": false
+        },
+        {
+          "key": 2,
+          "type": "text-objection",
+          "title": "Workflow Service",
+          "desc": "Print invoice",
+          "date": "12-Sep-2018",
+          "time": "2:45PM",
+          "attachment": true
+        },
+        {
+          "key": 3,
+          "type": "xml",
+          "title": "Workflow Service",
+          "desc": "Print invoice",
+          "date": "12-Sep-2018",
+          "time": "2:45PM",
+          "attachment": true
+        },
+        {
+          "key": 4,
+          "type": "pdf",
+          "title": "Workflow Service",
+          "desc": "Print invoice",
+          "date": "12-Sep-2018",
+          "time": "2:45PM",
+          "attachment": false
+        },
+        {
+          "key": 5,
+          "type": "global-file",
+          "title": "Workflow Service",
+          "desc": "Print invoice",
+          "date": "12-Sep-2018",
+          "time": "2:45PM",
+          "attachment": false
+        },
+        {
+          "key": 6,
+          "type": "wemail",
+          "title": "Workflow Service",
+          "desc": "Print invoice",
+          "date": "12-Sep-2018",
+          "time": "2:45PM",
+          "attachment": false
+        },
+        {
+          "key": 7,
+          "type": "ehf",
+          "title": "Workflow Service",
+          "desc": "Print invoice",
+          "date": "12-Sep-2018",
+          "time": "2:45PM",
+          "attachment": true
+        },
+        {
+          "key": 8,
+          "type": "digipost",
+          "title": "Workflow Service",
+          "desc": "Print invoice",
+          "date": "12-Sep-2018",
+          "time": "2:45PM",
+          "attachment": true
+        },
+        {
+          "key": 9,
+          "type": "sms",
+          "title": "Workflow Service",
+          "desc": "Print invoice",
+          "date": "12-Sep-2018",
+          "time": "2:45PM",
+          "attachment": false
+        },
+        {
+          "key": 10,
+          "type": "email",
+          "title": "Workflow Service",
+          "desc": "Print invoice",
+          "date": "12-Sep-2018",
+          "time": "2:45PM",
+          "attachment": false
+        },
+        {
+          "key": 11,
+          "type": "html",
+          "title": "Workflow Service",
+          "desc": "Print invoice",
+          "date": "12-Sep-2018",
+          "time": "2:45PM",
+          "attachment": false
+        },
+        {
+          "key": 12,
+          "type": "word",
+          "title": "Workflow Service",
+          "desc": "Print invoice",
+          "date": "12-Sep-2018",
+          "time": "2:45PM",
+          "attachment": false
+        },
+        {
+          "key": 13,
+          "type": "excel",
+          "title": "Workflow Service",
+          "desc": "Print invoice",
+          "date": "12-Sep-2018",
+          "time": "2:45PM",
+          "attachment": false
+        }
+      ]
+    }

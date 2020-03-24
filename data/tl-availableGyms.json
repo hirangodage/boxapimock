@@ -1,0 +1,16 @@
+{
+    "gyms": [
+        {
+            "Id": 1,
+            "Name": "Sat elixia"
+        },
+        {
+            "Id": 2,
+            "Name": "Orica"
+        },
+        {
+            "Id": 3,
+            "Name": "Power World"
+        }
+    ]
+}

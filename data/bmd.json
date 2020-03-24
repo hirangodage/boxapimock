@@ -1,0 +1,25 @@
+{
+    "bmd":[
+        {
+            "ID":1,
+            "Name":"",
+            "DisplayName":"Remit Setting",
+            "Properties":[
+                {
+                    "ID":1,
+                    "DisplayName":"",
+                    "Key":"",
+                    "Value":""
+                }
+            ],
+            "Discription":"",
+            "Category":{
+                "ID":1,
+                "CategoryName" : "Basic Data"
+            },
+            "ActiveStatus":1
+
+
+        }
+    ]
+}

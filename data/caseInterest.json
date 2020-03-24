@@ -1,0 +1,80 @@
+{
+    "caseInterest":[
+        {
+            "id":1,
+            "CaseNo":123,
+            "LinkNo":1245,
+            "SubCaseNo":123,
+            "ArItemNo":45455,
+            "BaseAmount":1023,
+            "FromDate":"12/16/2018 12:00:00 AM",
+            "EndDate":"12/16/2019 10:05:00 AM",
+            "IRate":0.5,
+            "IAmount":123,
+            "LeapYear":0,
+            "Obsolete":false,
+            "IDays":123,
+            "RegDate":"12/16/2019 05:00:00 AM",
+            "TransType":"IN",
+            "User":"Workflow Service"
+
+        },
+        {
+            "id":2,
+            "CaseNo":123,
+            "LinkNo":14,
+            "SubCaseNo":123,
+            "ArItemNo":45455,
+            "BaseAmount":1023,
+            "FromDate":"12/16/2018 01:00:00 AM",
+            "EndDate":"12/16/2019 02:30:00 AM",
+            "IRate":0.5,
+            "IAmount":123,
+            "LeapYear":0,
+            "Obsolete":false,
+            "IDays":123,
+            "RegDate":"12/16/2019 12:00:00 AM",
+            "TransType":"IN",
+            "User":"Workflow Service"
+
+        },
+        {
+            "id":3,
+            "CaseNo":2542,
+            "LinkNo":56,
+            "SubCaseNo":554,
+            "ArItemNo":878,
+            "BaseAmount":10011,
+            "FromDate":"05/16/2018 12:00:00 AM",
+            "EndDate":"02/16/2019 12:00:00 AM",
+            "IRate":0.5,
+            "IAmount":24,
+            "LeapYear":0,
+            "Obsolete":false,
+            "IDays":74,
+            "RegDate":"12/16/2019 12:00:00 AM",
+            "TransType":"IN",
+            "User":"Workflow Service"
+
+        },
+        {
+            "id":4,
+            "CaseNo":2542,
+            "LinkNo":56,
+            "SubCaseNo":554,
+            "ArItemNo":878,
+            "BaseAmount":10011,
+            "FromDate":"05/16/2018 12:00:00 AM",
+            "EndDate":"02/16/2019 12:00:00 AM",
+            "IRate":0.5,
+            "IAmount":24,
+            "LeapYear":0,
+            "Obsolete":false,
+            "IDays":74,
+            "RegDate":"12/16/2019 12:00:00 AM",
+            "TransType":"IN",
+            "User":"Workflow Service"
+
+        }
+    ]
+}

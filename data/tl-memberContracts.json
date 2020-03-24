@@ -1,0 +1,18 @@
+{
+    "memberContracts": [
+        {
+            "id": 1,
+            "Name": "Starter",
+            "StartDate": "04/May/2019",
+            "EndDate": "25/May/2019",
+            "visits": "50/15"
+        },
+        {
+            "id": 2,
+            "Name": "Pro Player",
+            "StartDate": "04/Jun/2019",
+            "EndDate": "25/Jun/2019",
+            "visits": "50/30"
+        }
+    ]
+}

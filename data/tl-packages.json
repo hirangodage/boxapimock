@@ -1,0 +1,287 @@
+{
+    "package": [
+        {
+            "Id": 1,
+            "PackageNo": "Starter-1",
+            "PackageName": "Starter 1",
+            "TotalPrice": 6300.00,
+            "Description":"Lorem Ipsum is simply dummy  Lorem Ipsum is simply Lorem Ipsum is simply dummy dummy text of the printing and typesetting dustry",
+            "IsRegistrationFee": true,
+            "IsRes": true,
+            "IsFixedVisits":false,
+            "NumberOfFixVisits":0,
+            "IsFreeMonths":false,
+            "NumberOfFreeMonths":0,
+            "PackegeType": "normal",
+            "PackageDisplayPosition": 1,
+            "RegistrationFeeAmount": 1500.00,
+            "PackageCost": 2100.00,
+            "MonthlyFee": 300.00,
+            "PerVisitPrice": 0,
+            "BindingPeriod": 12,
+            "IsATG": true,
+            "IsAutoRenew": false,
+            "IsShowInMobile": true,
+            "IsShowInWeb": false,
+            "IsMemberCanLeaveWithinFreePeriod": false,
+            "IsMemberCanAddAddOns": false,
+            "IsMemberCanRemoveAddOns": true,
+            "Addons": [
+                {
+                    "ArticleId": 1,
+                    "ArticleNo": 106,
+                    "ArticleName": "Aerobic class",
+                    "ArticlePrice": 0,
+                    "IsPriceIncludedInMonthlyFee": true
+                },
+                {
+                    "ArticleId": 2,
+                    "ArticleNo": 105,
+                    "ArticleName": "Shower",
+                    "ArticlePrice": 0,
+                    "IsPriceIncludedInMonthlyFee": true
+                },
+                {
+                    "ArticleId": 3,
+                    "ArticleNo": 104,
+                    "ArticleName": "Dumbells",
+                    "ArticlePrice": 0,
+                    "IsPriceIncludedInMonthlyFee": true
+                },
+                {
+                    "ArticleId": 4,
+                    "ArticleNo": 103,
+                    "ArticleName": "Zumba Class",
+                    "ArticlePrice": 0,
+                    "IsPriceIncludedInMonthlyFee": true
+                },
+                {
+                    "ArticleId": 5,
+                    "ArticleNo": 102,
+                    "ArticleName": "Locker",
+                    "ArticlePrice": 1200,
+                    "IsPriceIncludedInMonthlyFee": false
+                }
+                ,
+                {
+                    "ArticleId": 6,
+                    "ArticleNo": 101,
+                    "ArticleName": "Tool set",
+                    "ArticlePrice": 0,
+                    "IsPriceIncludedInMonthlyFee": true
+                }
+            ],
+            "AvailableGyms": [
+                {
+                    "Id": 1,
+                    "Name": "Sat elixia"
+                },
+                {
+                    "Id": 2,
+                    "Name": "Orica"
+                }
+            ],
+            "Comments":[
+                {
+                    "Id": 1,
+                    "Comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+                },
+                {
+                    "Id": 2,
+                    "Comment": "Lorem Ipsum has been the industry's standard dummy text ever since the"
+                },
+                {
+                    "Id": 3,
+                    "Comment": "1500sLorem Ipsum is simply dummy text of the printing and typesetting industry."
+                }
+            ]
+        },
+        {
+            "Id": 2,
+            "PackageNo": "Starter-2",
+            "PackageName": "Starter 2",
+            "TotalPrice": 4500.00,
+            "Description":"Lorem Ipsum is simply dummy  Lorem Ipsum is simply Lorem Ipsum is simply dummy dummy text of the printing and typesetting dustry",
+            "IsRegistrationFee": true,
+            "IsRes": true,
+            "IsFixedVisits":true,
+            "numberOfFixVisits":10,
+            "IsFreeMonths":true,
+            "NumberOfFreeMonths":2,
+            "PackegeType": "fixed visits",
+            "PackageDisplayPosition": 1,
+            "RegistrationFeeAmount": 1500.00,
+            "PackageCost": 3600.00,
+            "MonthlyFee": 150.00,
+            "BindingPeriod": 12,
+            "IsATG": true,
+            "IsAutoRenew": true,
+
+            "IsShowInMobile": true,
+            "IsShowInWeb": true,
+
+            "IsMemberCanLeaveWithinFreePeriod": true,
+            "IsMemberCanAddAddOns": true,
+            "IsMemberCanRemoveAddOns": true,
+            "Addons": [
+                {
+                    "ArticleId": 1,
+                    "ArticleNo": "",
+                    "ArticleName": "Arabic",
+                    "ArticlePrice": 100.00,
+                    "IsPriceIncludedInMonthlyFee": true
+                },
+                {
+                    "ArticleId": 2,
+                    "ArticleNo": "",
+                    "ArticleName": "Shower",
+                    "ArticlePrice": 100.00,
+                    "IsPriceIncludedInMonthlyFee": true
+                },
+                {
+                    "ArticleId": 3,
+                    "ArticleNo": "",
+                    "ArticleName": "Dumnells",
+                    "ArticlePrice": 100.00,
+                    "IsPriceIncludedInMonthlyFee": true
+                },
+                {
+                    "ArticleId": 1,
+                    "ArticleNo": 1,
+                    "ArticleName": "Sumba Session",
+                    "ArticlePrice": 300.00,
+                    "IsPriceIncludedInMonthlyFee": false
+                }
+                ,
+                {
+                    "ArticleId": 1,
+                    "ArticleNo": 1,
+                    "ArticleName": "Tool set",
+                    "ArticlePrice": 500.00,
+                    "IsPriceIncludedInMonthlyFee": false
+                }
+            ],
+            "AvailableGyms": [
+                {
+                    "Id": 1,
+                    "Name": "Sat elixia"
+                },
+                {
+                    "Id": 2,
+                    "Name": "Orica"
+                },
+                {
+                    "Id": 3,
+                    "Name": "Power World"
+                }
+            ],
+            "Comments":[
+                {
+                    "Id": 1,
+                    "Comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+                },
+                {
+                    "Id": 2,
+                    "Comment": "Lorem Ipsum has been the industry's standard dummy text ever since the"
+                },
+                {
+                    "Id": 3,
+                    "Comment": "1500sLorem Ipsum is simply dummy text of the printing and typesetting industry."
+                }
+            ]
+        },
+        {
+            "Id": 3,
+            "PackageNo": "Starter-3",
+            "PackageName": "Starter 3",
+            "TotalPrice": 4500.00,
+            "Description":"Lorem Ipsum is simply dummy  Lorem Ipsum is simply Lorem Ipsum is simply dummy dummy text of the printing and typesetting dustry",
+            "IsRegistrationFee": true,
+            "IsRes": true,
+            "IsFixedVisits":true,
+            "numberOfFixVisits":10,
+            "IsFreeMonths":true,
+            "NumberOfFreeMonths":2,
+            "PackegeType": "fixed visits",
+            "PackageDisplayPosition": 1,
+            "RegistrationFeeAmount": 1500.00,
+            "PackageCost": 4800.00,
+            "MonthlyFee": 220.00,
+            "BindingPeriod": 12,
+            "IsATG": false,
+            "IsAutoRenew": true,
+            "IsShowInMobile": true,
+            "IsShowInWeb": true,
+            "IsMemberCanLeaveWithinFreePeriod": true,
+            "IsMemberCanAddAddOns": true,
+            "IsMemberCanRemoveAddOns": true,
+            "Addons": [
+                {
+                    "ArticleId": 1,
+                    "ArticleNo": "",
+                    "ArticleName": "Arabic",
+                    "ArticlePrice": 100.00,
+                    "IsPriceIncludedInMonthlyFee": true
+                },
+                {
+                    "ArticleId": 2,
+                    "ArticleNo": "",
+                    "ArticleName": "Shower",
+                    "ArticlePrice": 100.00,
+                    "IsPriceIncludedInMonthlyFee": true
+                },
+                {
+                    "ArticleId": 3,
+                    "ArticleNo": "",
+                    "ArticleName": "Dumnells",
+                    "ArticlePrice": 100.00,
+                    "IsPriceIncludedInMonthlyFee": true
+                },
+                {
+                    "ArticleId": 1,
+                    "ArticleNo": 1,
+                    "ArticleName": "Sumba Session",
+                    "ArticlePrice": 200.00,
+                    "IsPriceIncludedInMonthlyFee": false
+                }
+                ,
+                {
+                    "ArticleId": 1,
+                    "ArticleNo": 1,
+                    "ArticleName": "Tool set",
+                    "ArticlePrice": 300.00,
+                    "IsPriceIncludedInMonthlyFee": false
+                }
+            ],
+            "AvailableGyms": [
+                {
+                    "Id": 1,
+                    "Name": "Sat elixia"
+                },
+                {
+                    "Id": 2,
+                    "Name": "Orica"
+                },
+                {
+                    "Id": 3,
+                    "Name": "Power World"
+                }
+            ],
+            "Comments":[
+                {
+                    "Id": 1,
+                    "Comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+                },
+                {
+                    "Id": 2,
+                    "Comment": "Lorem Ipsum has been the industry's standard dummy text ever since the"
+                },
+                {
+                    "Id": 3,
+                    "Comment": "1500sLorem Ipsum is simply dummy text of the printing and typesetting industry."
+                }
+            ]
+        }
+        
+    ]
+}

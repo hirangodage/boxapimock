@@ -1,0 +1,514 @@
+{
+    "transactionTypes": [
+        {
+            "Id": 1,
+            "IsPayment": true,
+            "TypeName": "PHP",
+            "Description": "Other destruc bronc les"
+        },
+        {
+            "Id": 2,
+            "IsPayment": true,
+            "TypeName": "XOF",
+            "Description": "Mediastinal pneumogram"
+        },
+        {
+            "Id": 3,
+            "IsPayment": false,
+            "TypeName": "CNY",
+            "Description": "Metatars/tars inj op NOS"
+        },
+        {
+            "Id": 4,
+            "IsPayment": false,
+            "TypeName": "IDR",
+            "Description": "Rep cystocel w grft/pros"
+        },
+        {
+            "Id": 5,
+            "IsPayment": true,
+            "TypeName": "BRL",
+            "Description": "Create septal defect"
+        },
+        {
+            "Id": 6,
+            "IsPayment": false,
+            "TypeName": "PLN",
+            "Description": "Vag repair invers uterus"
+        },
+        {
+            "Id": 7,
+            "IsPayment": false,
+            "TypeName": "CZK",
+            "Description": "CAS w fluoroscopy"
+        },
+        {
+            "Id": 8,
+            "IsPayment": true,
+            "TypeName": "YER",
+            "Description": "Fixed bridge insertion"
+        },
+        {
+            "Id": 9,
+            "IsPayment": false,
+            "TypeName": "NGN",
+            "Description": "Interposit op uterin lig"
+        },
+        {
+            "Id": 10,
+            "IsPayment": true,
+            "TypeName": "XAF",
+            "Description": "Remov imp dev-chest cage"
+        },
+        {
+            "Id": 11,
+            "IsPayment": false,
+            "TypeName": "CNY",
+            "Description": "Parasitology-blood"
+        },
+        {
+            "Id": 12,
+            "IsPayment": false,
+            "TypeName": "CNY",
+            "Description": "Revis extraoc musc surg"
+        },
+        {
+            "Id": 13,
+            "IsPayment": false,
+            "TypeName": "ALL",
+            "Description": "Arterial puncture NEC"
+        },
+        {
+            "Id": 14,
+            "IsPayment": false,
+            "TypeName": "IDR",
+            "Description": "Exc/des hrt les,endovasc"
+        },
+        {
+            "Id": 15,
+            "IsPayment": true,
+            "TypeName": "CNY",
+            "Description": "Chorioret les laser coag"
+        },
+        {
+            "Id": 16,
+            "IsPayment": true,
+            "TypeName": "ETB",
+            "Description": "Portal contr phlebogram"
+        },
+        {
+            "Id": 17,
+            "IsPayment": true,
+            "TypeName": "BRL",
+            "Description": "Gb-to-stomach anastomos"
+        },
+        {
+            "Id": 18,
+            "IsPayment": true,
+            "TypeName": "BRL",
+            "Description": "Pterygium transposition"
+        },
+        {
+            "Id": 19,
+            "IsPayment": true,
+            "TypeName": "RUB",
+            "Description": "Oth laryngeal operation"
+        },
+        {
+            "Id": 20,
+            "IsPayment": true,
+            "TypeName": "LBP",
+            "Description": "Insert bone stimul NEC"
+        },
+        {
+            "Id": 21,
+            "IsPayment": false,
+            "TypeName": "IDR",
+            "Description": "Coron vess aneurysm rep"
+        },
+        {
+            "Id": 22,
+            "IsPayment": false,
+            "TypeName": "COP",
+            "Description": "Remove eye prosthesis"
+        },
+        {
+            "Id": 23,
+            "IsPayment": true,
+            "TypeName": "CDF",
+            "Description": "Skull plate insertion"
+        },
+        {
+            "Id": 24,
+            "IsPayment": true,
+            "TypeName": "PEN",
+            "Description": "Ther ultrasound of heart"
+        },
+        {
+            "Id": 25,
+            "IsPayment": false,
+            "TypeName": "RSD",
+            "Description": "IVUS peripheral vessels"
+        },
+        {
+            "Id": 26,
+            "IsPayment": true,
+            "TypeName": "NOK",
+            "Description": "Attach pedicle to hand"
+        },
+        {
+            "Id": 27,
+            "IsPayment": false,
+            "TypeName": "COP",
+            "Description": "Other neuroplasty"
+        },
+        {
+            "Id": 28,
+            "IsPayment": false,
+            "TypeName": "PHP",
+            "Description": "Delay opening enterostom"
+        },
+        {
+            "Id": 29,
+            "IsPayment": false,
+            "TypeName": "CNY",
+            "Description": "Vulvar biopsy"
+        },
+        {
+            "Id": 30,
+            "IsPayment": true,
+            "TypeName": "CNY",
+            "Description": "Closure of tracheostomy"
+        },
+        {
+            "Id": 31,
+            "IsPayment": false,
+            "TypeName": "CNY",
+            "Description": "Excision of aorta"
+        },
+        {
+            "Id": 32,
+            "IsPayment": true,
+            "TypeName": "UAH",
+            "Description": "Mri chest & heart"
+        },
+        {
+            "Id": 33,
+            "IsPayment": false,
+            "TypeName": "EUR",
+            "Description": "Open red-sep epiphy NOS"
+        },
+        {
+            "Id": 34,
+            "IsPayment": false,
+            "TypeName": "CNY",
+            "Description": "Replace dental packing"
+        },
+        {
+            "Id": 35,
+            "IsPayment": true,
+            "TypeName": "CNY",
+            "Description": "Pulmon art wedge monitor"
+        },
+        {
+            "Id": 36,
+            "IsPayment": false,
+            "TypeName": "CZK",
+            "Description": "Oth arthrotomy-foot/toe"
+        },
+        {
+            "Id": 37,
+            "IsPayment": true,
+            "TypeName": "KRW",
+            "Description": "Hemorrhoid injection"
+        },
+        {
+            "Id": 38,
+            "IsPayment": false,
+            "TypeName": "SEK",
+            "Description": "Laparotomy NEC"
+        },
+        {
+            "Id": 39,
+            "IsPayment": false,
+            "TypeName": "IDR",
+            "Description": "Opn bi dr ing hrn-gr NEC"
+        },
+        {
+            "Id": 40,
+            "IsPayment": false,
+            "TypeName": "RUB",
+            "Description": "Enterostomy NEC"
+        },
+        {
+            "Id": 41,
+            "IsPayment": true,
+            "TypeName": "JPY",
+            "Description": "Oth arthrotomy-shoulder"
+        },
+        {
+            "Id": 42,
+            "IsPayment": true,
+            "TypeName": "BRL",
+            "Description": "Penile operation NEC"
+        },
+        {
+            "Id": 43,
+            "IsPayment": false,
+            "TypeName": "EUR",
+            "Description": "Tm contrast arthrogram"
+        },
+        {
+            "Id": 44,
+            "IsPayment": true,
+            "TypeName": "CNY",
+            "Description": "Remove impl device NEC"
+        },
+        {
+            "Id": 45,
+            "IsPayment": true,
+            "TypeName": "EUR",
+            "Description": "Humerus sequestrectomy"
+        },
+        {
+            "Id": 46,
+            "IsPayment": false,
+            "TypeName": "EUR",
+            "Description": "Vessel resect/anast NOS"
+        },
+        {
+            "Id": 47,
+            "IsPayment": false,
+            "TypeName": "PLN",
+            "Description": "Percutan liver aspirat"
+        },
+        {
+            "Id": 48,
+            "IsPayment": false,
+            "TypeName": "IDR",
+            "Description": "Abdperneal res rectm NOS"
+        },
+        {
+            "Id": 49,
+            "IsPayment": true,
+            "TypeName": "IDR",
+            "Description": "Resect ext seg sm bowel"
+        },
+        {
+            "Id": 50,
+            "IsPayment": false,
+            "TypeName": "NOK",
+            "Description": "Repair of thymus"
+        },
+        {
+            "Id": 51,
+            "IsPayment": false,
+            "TypeName": "IDR",
+            "Description": "Insrt non-impl circ dev"
+        },
+        {
+            "Id": 52,
+            "IsPayment": false,
+            "TypeName": "BYR",
+            "Description": "Total splenectomy"
+        },
+        {
+            "Id": 53,
+            "IsPayment": false,
+            "TypeName": "BRL",
+            "Description": "Anorectal myomectomy"
+        },
+        {
+            "Id": 54,
+            "IsPayment": true,
+            "TypeName": "CNY",
+            "Description": "Op red-int fix tib/fibul"
+        },
+        {
+            "Id": 55,
+            "IsPayment": true,
+            "TypeName": "USD",
+            "Description": "Lac canaliculi incision"
+        },
+        {
+            "Id": 56,
+            "IsPayment": false,
+            "TypeName": "CNY",
+            "Description": "Revise disc prosth lumb"
+        },
+        {
+            "Id": 57,
+            "IsPayment": true,
+            "TypeName": "CNY",
+            "Description": "Dark adaptation study"
+        },
+        {
+            "Id": 58,
+            "IsPayment": false,
+            "TypeName": "GTQ",
+            "Description": "Myotomy of hand"
+        },
+        {
+            "Id": 59,
+            "IsPayment": false,
+            "TypeName": "RUB",
+            "Description": "Autopsy"
+        },
+        {
+            "Id": 60,
+            "IsPayment": false,
+            "TypeName": "USD",
+            "Description": "Insert bone stimul NEC"
+        },
+        {
+            "Id": 61,
+            "IsPayment": false,
+            "TypeName": "KES",
+            "Description": "Cl fx reduc-int fix NEC"
+        },
+        {
+            "Id": 62,
+            "IsPayment": true,
+            "TypeName": "IDR",
+            "Description": "Fetal ekg"
+        },
+        {
+            "Id": 63,
+            "IsPayment": true,
+            "TypeName": "PHP",
+            "Description": "Biliary tube irrigation"
+        },
+        {
+            "Id": 64,
+            "IsPayment": true,
+            "TypeName": "UYU",
+            "Description": "Renal autotransplant"
+        },
+        {
+            "Id": 65,
+            "IsPayment": false,
+            "TypeName": "IDR",
+            "Description": "Muscle reattachment"
+        },
+        {
+            "Id": 66,
+            "IsPayment": false,
+            "TypeName": "EUR",
+            "Description": "Post nasal pac for epist"
+        },
+        {
+            "Id": 67,
+            "IsPayment": false,
+            "TypeName": "MXN",
+            "Description": "Intestinal biopsy NOS"
+        },
+        {
+            "Id": 68,
+            "IsPayment": true,
+            "TypeName": "IRR",
+            "Description": "Seminal vesicle incision"
+        },
+        {
+            "Id": 69,
+            "IsPayment": false,
+            "TypeName": "JPY",
+            "Description": "Impl fallop tube prosth"
+        },
+        {
+            "Id": 70,
+            "IsPayment": false,
+            "TypeName": "BGN",
+            "Description": "Open fx reduction NOS"
+        },
+        {
+            "Id": 71,
+            "IsPayment": false,
+            "TypeName": "GBP",
+            "Description": "Sinus lavage thru ostium"
+        },
+        {
+            "Id": 72,
+            "IsPayment": true,
+            "TypeName": "TND",
+            "Description": "Excis les lacrimal gland"
+        },
+        {
+            "Id": 73,
+            "IsPayment": false,
+            "TypeName": "CNY",
+            "Description": "Skin & subq op NEC"
+        },
+        {
+            "Id": 74,
+            "IsPayment": true,
+            "TypeName": "XAF",
+            "Description": "Opn bi dr ing hrn-gr NEC"
+        },
+        {
+            "Id": 75,
+            "IsPayment": true,
+            "TypeName": "PKR",
+            "Description": "Spinal struct repair NEC"
+        },
+        {
+            "Id": 76,
+            "IsPayment": false,
+            "TypeName": "NGN",
+            "Description": "Exc maj les lid ful-thic"
+        },
+        {
+            "Id": 77,
+            "IsPayment": false,
+            "TypeName": "IDR",
+            "Description": "Destruct joint les NEC"
+        },
+        {
+            "Id": 78,
+            "IsPayment": true,
+            "TypeName": "JPY",
+            "Description": "Pacemaker impedance chck"
+        },
+        {
+            "Id": 79,
+            "IsPayment": true,
+            "TypeName": "ERN",
+            "Description": "Operations on clitoris"
+        },
+        {
+            "Id": 80,
+            "IsPayment": false,
+            "TypeName": "CNY",
+            "Description": "Pros rep ventric def-opn"
+        },
+        {
+            "Id": 81,
+            "IsPayment": false,
+            "TypeName": "BRL",
+            "Description": "Other perm tracheostomy"
+        },
+        {
+            "Id": 82,
+            "IsPayment": false,
+            "TypeName": "EUR",
+            "Description": "Lymphatic system scan"
+        },
+        {
+            "Id": 83,
+            "IsPayment": false,
+            "TypeName": "CNY",
+            "Description": "Foot joint struct divis"
+        },
+        {
+            "Id": 84,
+            "IsPayment": true,
+            "TypeName": "CNY",
+            "Description": "Thoracospc pneumonectomy"
+        },
+        {
+            "Id": 85,
+            "IsPayment": false,
+            "TypeName": "EUR",
+            "Description": "Limb lengthen proc NEC"
+        }
+    ]
+}

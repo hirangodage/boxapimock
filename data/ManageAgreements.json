@@ -1,0 +1,20 @@
+{
+    "ManageAgreements": 
+        {   "Id" : 1,
+            "MainAmountBalance": 1300.00,
+            "CollectionFeeBalance": 350.00,
+            "CostFeeBalance": 0.00,
+            "CourtFeeBalance": 0.00,
+            "OtherFeeBalance": 0.00,
+            "InterestFeeBalance": 40.26,
+            "PayDate": "11/30/2018"
+        }
+    ,
+    "UserAgreementsDetails":
+        {   "Id" : 1,
+            "CreatedUser": "devclouduser",
+            "CreatedDate": "11/29/2018",
+            "ModifiedUser": "devclouduser",
+            "ModifiedDate": "11/30/2018"
+        }
+}
