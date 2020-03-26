@@ -1,0 +1,24 @@
+{
+    "memberPayments": [
+        {
+            "Id": 1,
+            "Date": "03-Jan-2020",
+            "Time": "09:00AM",
+            "Type": "CARD",
+            "Amount": 29.00,
+            "RegDate": "02-Jan-2020",
+            "RegTime": "01:00 AM",
+            "User": "-"
+        },
+        {
+            "Id": 2,
+            "Date": "07-Jan-2020",
+            "Time": "02:00AM",
+            "Type": "CARD",
+            "Amount": 199.00,
+            "RegDate": "25-Jan-2020",
+            "RegTime": "02:00 AM",
+            "User": "-"
+        }
+    ]
+}

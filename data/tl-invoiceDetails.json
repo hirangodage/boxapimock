@@ -1,0 +1,14 @@
+{
+    "invoiceDetails": 
+        {   "Id" : 1,
+            "Amount": 235.00,
+            "DueDate": "20-Jan-2020",
+            "GeneratedDate": "05-Jan-2020",
+            "DistributedDate": "05-Jan-2020",
+            "Balance": 200.00,
+            "InvoiceType":"ATG",
+            "InstallmentNo":5,
+            "Order":"5229928",
+            "KID":"52684218625"
+        }
+}

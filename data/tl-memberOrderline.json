@@ -1,0 +1,24 @@
+{
+    "memberOrderline": [
+        {
+            "Id": 1,
+            "ArticleNo": "0002",
+            "Name": "Monthly Fee",
+            "Unitprice": 350.00,
+            "Qty": 1,
+            "Tax": 0.00,
+            "Discount": 50,
+            "Total": 5
+        },
+        {
+            "Id": 2,
+            "ArticleNo": "0003",
+            "Name": "Monthly Fee",
+            "Unitprice": 360.00,
+            "Qty": 3,
+            "Tax": 0.00,
+            "Discount": 10,
+            "Total": 1
+        }
+    ]
+}
